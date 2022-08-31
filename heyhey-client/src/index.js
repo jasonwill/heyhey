@@ -3,9 +3,9 @@ import ReactDOM from "react-dom";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import { ApolloClient, InMemoryCache, ApolloProvider, gql } from '@apollo/client';
-import { WebSocketLink } from "@apollo/client/link/ws";
+//import { WebSocketLink } from "@apollo/client/link/ws";
 
-const httpLink = new HttpLink({
+/*const httpLink = new HttpLink({
   uri: process.env[`REACT_APP_${process.env.NODE_ENV}_GRAPHQL_END_POINT_URI`],
 });
 
@@ -14,7 +14,7 @@ const wsLink = new WebSocketLink({
   options: {
     reconnect: true,
   },
-});
+});*/
 
 const client = new ApolloClient({
   uri: 'localhost:5002/',

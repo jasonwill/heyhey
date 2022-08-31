@@ -2,8 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
-import { ApolloClient, InMemoryCache } from "@apollo/client";
-import { ApolloProvider } from "@apollo/client";
+import { ApolloClient, InMemoryCache, ApolloProvider, gql } from '@apollo/client';
 import { WebSocketLink } from "@apollo/client/link/ws";
 
 const httpLink = new HttpLink({
@@ -18,8 +17,37 @@ const wsLink = new WebSocketLink({
 });
 
 const client = new ApolloClient({
+  uri: 'localhost:5002/',
   cache: new InMemoryCache()
 });
+
+client
+  .query({
+    query: gql`
+      query GetAllAnnouncements {
+        allAnnouncements{
+          pageInfo {
+            hasNextPage
+            hasPreviousPage
+            startCursor
+            endCursor
+          }
+          nodes {
+            id
+            authorId
+            title
+            content
+            createdAt
+            userByAuthorId {
+              username
+              createdAt
+            }
+          }
+        }
+      }
+    `,
+  })
+  .then((result) => console.log(result));
 
 ReactDOM.render(
 

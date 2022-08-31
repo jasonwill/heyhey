@@ -7,7 +7,7 @@ const app = express()
 console.log(process.env.POSTGRES_DB)
 console.log(process.env.POSTGRES_USER)
 const pgPool = new pg.Pool({
-  connectionString: (process.env.DATABASE_URL || 'postgres://jredcedar@localhost:5432/sayso_development'),
+  connectionString: process.env.DATABASE_URL
 })
 
 app.use(

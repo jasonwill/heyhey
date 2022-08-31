@@ -3,12 +3,15 @@ const express = require('express')
 const { postgraphile } = require('postgraphile')
 require('dotenv').config()
 const app = express()
+const cors = require('cors');
 
-console.log(process.env.POSTGRES_DB)
-console.log(process.env.POSTGRES_USER)
 const pgPool = new pg.Pool({
   connectionString: process.env.DATABASE_URL
 })
+
+app.use(cors({
+  origin: 'http://localhost:3000'
+}));
 
 app.use(
   postgraphile(

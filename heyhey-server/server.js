@@ -1,6 +1,8 @@
 const pg = require('pg')
 const express = require('express')
 const { postgraphile } = require('postgraphile')
+const ConnectionFilterPlugin = require("postgraphile-plugin-connection-filter");
+
 require('dotenv').config()
 const app = express()
 const cors = require('cors');
@@ -18,6 +20,7 @@ app.use(
     pgPool,
     process.env.SCHEMA_NAMES ? process.env.SCHEMA_NAMES.split(',') : ['public'],
     {
+      appendPlugins: [ConnectionFilterPlugin],
       watchPg: true,
       graphiql: true,
       enhanceGraphiql: true,

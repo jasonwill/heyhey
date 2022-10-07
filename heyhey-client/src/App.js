@@ -1,25 +1,13 @@
-import logo from './logo.svg';
-import './App.css';
+import './App.css'
+import { Announcements } from './components/Announcements'
+import { AddAnnouncement } from './components/AddAnnouncement'
 
-function App() {
+export default function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <h2>Hey Hey</h2>
+      <Announcements />
+      <AddAnnouncement />
     </div>
-  );
+  )
 }
-
-export default App;

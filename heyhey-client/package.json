@@ -10,7 +10,6 @@
     "dayjs": "^1.11.5",
     "graphql": "^16.6.0",
     "open-props": "^1.4.16",
-    "postgraphile-plugin-connection-filter": "^2.3.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",

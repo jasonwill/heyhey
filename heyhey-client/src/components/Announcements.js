@@ -2,8 +2,8 @@ import { useQuery, gql } from '@apollo/client'
 import { Announcement } from './Announcement'
 
 export const getAllAnnouncements = gql`
-query GetAllAnnouncements {
-  allAnnouncements{
+query GetFilteredAnnouncements($text: String! $end: Cursor $count: Int!)  {
+  allAnnouncements (filter:{title : {includes: $text } } after: $end first: $count){
     pageInfo {
       hasNextPage
       hasPreviousPage
@@ -26,16 +26,31 @@ query GetAllAnnouncements {
 `
 
 export function Announcements() {
-  const { loading, error, data } = useQuery(getAllAnnouncements)
+  let endCursor = null
+  const { loading, error, data } = useQuery(getAllAnnouncements, {
+    variables: {
+      text : "d",
+      end: endCursor,
+      count: 2
+    }
+  })
 
   if (loading)
     return <p>Loading...</p>
   if (error)
     return <p>Error :(</p>
 
-  return data.allAnnouncements.nodes.map(announcement => (
+  endCursor = data.allAnnouncements.pageInfo.endCursor;
+
+  const announcements = data.allAnnouncements.nodes.map(announcement => (
     <Announcement key={announcement.id} announcement={announcement} />
   ))
+  return (
+  <div>
+    <span>{endCursor}</span>
+    {announcements}
+  </div>
+  )
 }
 
 

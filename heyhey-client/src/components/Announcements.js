@@ -1,10 +1,5 @@
 import { useQuery, gql } from '@apollo/client'
-import dayjs from 'dayjs'
-import relativeTime from 'dayjs/plugin/relativeTime'
-import localizedFormat from 'dayjs/plugin/localizedFormat'
 import { Announcement } from './Announcement'
-dayjs.extend(relativeTime)
-dayjs.extend(localizedFormat)
 
 export const getAllAnnouncements = gql`
 query GetAllAnnouncements {

@@ -33,7 +33,7 @@ export function AnnouncementPage() {
 
 
   const announcement =  (
-    <AnnouncementDetail announcement={data.announcement} />
+    <AnnouncementDetail announcement={data.announcementById} />
   )
   return (
   <div>

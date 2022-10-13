@@ -29,9 +29,9 @@ export function Announcements() {
   let endCursor = null
   const { loading, error, data } = useQuery(getAllAnnouncements, {
     variables: {
-      text : "d",
+      text : "",
       end: endCursor,
-      count: 2
+      count: 10
     }
   })
 

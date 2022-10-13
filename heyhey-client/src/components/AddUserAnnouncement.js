@@ -1,19 +1,22 @@
 import { gql, useMutation } from '@apollo/client'
 import dayjs from 'dayjs'
-import { Link } from '@tanstack/react-location'
+import { Link, useMatch } from '@tanstack/react-location'
 
-const AddUserMutation = gql`
-mutation CreateAUser($userInput: CreateUserInput!){
-  createUser(input :$userInput) {
-     user {
-      username
+
+const AddAnnouncementMutation = gql`
+mutation CreateAnAnnouncement($ann: CreateAnnouncementInput!){
+  createAnnouncement(input :$ann) {
+     announcement{
+      title
     }
   }
 }
 `
-export function AddUser() {
+export function AddUserAnnouncement() {
   let input
-  const [addUser, { data, loading, error }] = useMutation(AddUserMutation)
+  const userid = useMatch().params.id
+  // debugger
+  const [addAnnouncement, { data, loading, error }] = useMutation(AddAnnouncementMutation)
 
   if (loading)
     return 'Submitting...'
@@ -25,11 +28,12 @@ export function AddUser() {
       <form
         onSubmit={e => {
           e.preventDefault();
-          addUser({ 
+          addAnnouncement({ 
             variables: {
-              "userInput": {
-                "user": {
-                  "username": input.value,
+              "ann": {
+                "announcement": {
+                  "authorId": userid,
+                  "title": input.value,
                   "updatedAt": dayjs().format('YYYY-MM-DDTHH:mm:ss'),
                   "createdAt": dayjs().format('YYYY-MM-DDTHH:mm:ss')
                 }
@@ -45,9 +49,9 @@ export function AddUser() {
             input = node
           }}
         />
-        <button type="submit">Add User</button>
+        <button type="submit">Add Announcement</button>
       </form>
-      <Link to = "/Users">All Users</Link>
+      <Link to = "/">All Announcements</Link>
     </div>
   );
 }

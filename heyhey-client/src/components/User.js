@@ -8,8 +8,8 @@ dayjs.extend(localizedFormat)
 
 export function User({ id, user }) {
   return <>
-    <Link to={`/User/${user.nodeId}`}>{user.username}</Link>
-    <p>{user.nodeId}</p>
+    <Link to={`/User/${user.id}`}>{user.username}</Link>
+    <p>{user.id}</p>
     <div>
       <p>{`Created ${dayjs(user.createdAt).fromNow()}, ${dayjs(user.createdAt).format('dddd, MMMM D, YYYY h:mm:ss A')}`}</p>
       <p>{`Updated ${dayjs(user.updatedAt).fromNow()}, ${dayjs(user.updatedAt).format('dddd, MMMM D, YYYY h:mm:ss A')}`}</p>

@@ -3,8 +3,8 @@ import { UserDetail } from './UserDetail'
 import { Link, useMatch } from '@tanstack/react-location'
 
 export const getUser = gql`
-query GetUser($nodeId: ID!) {
-  user(nodeId: $nodeId) {
+query GetUserById($id: BigInt!) {
+  userById(id: $id) {
     nodeId
     id
     username
@@ -24,9 +24,10 @@ query GetUser($nodeId: ID!) {
 `
 
 export function UserPage() {
+  
   const { loading, error, data } = useQuery(getUser, {
     variables: {
-      "nodeId": useMatch().params.nodeId
+      "id": useMatch().params.id
     }
   })
 
@@ -37,15 +38,16 @@ export function UserPage() {
 
 
   const user =  (
-    <UserDetail user={data.user} />
+    <UserDetail user={data.userById} />
   )
+
   return (
   <div>
     {user}
     <Link to = "/AddUser">Add User</Link><br/>
     <Link to = "/Users">All Users</Link><br/>
-    <Link to = "/AddAnnouncement">Add Announcement</Link>
-    {/* Todo add the user to the route for adding an announcement */}
+    <Link to = {`/UserAddAnnouncement/${data.userById.id}`}>Add Announcement</Link>
+    {/* TODO fix the route for adding an announcement */}
   </div>
   )
 }

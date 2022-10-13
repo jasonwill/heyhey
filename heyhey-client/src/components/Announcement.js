@@ -8,8 +8,8 @@ dayjs.extend(localizedFormat)
 
 export function Announcement({ id, announcement }) {
   return <>
-    <Link to={`/Announcement/${announcement.nodeId}`}>{announcement.title}</Link>
-    <p>{announcement.nodeId}</p>
+    <Link to={`/Announcement/${announcement.id}`}>{announcement.title}</Link>
+    <p>{announcement.id}</p>
     <div>
       <p>{`Created ${dayjs(announcement.createdAt).fromNow()}, ${dayjs(announcement.createdAt).format('dddd, MMMM D, YYYY h:mm:ss A')}`}</p>
       <p>{`Updated ${dayjs(announcement.updatedAt).fromNow()}, ${dayjs(announcement.updatedAt).format('dddd, MMMM D, YYYY h:mm:ss A')}`}</p>

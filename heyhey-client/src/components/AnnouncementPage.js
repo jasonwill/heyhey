@@ -3,8 +3,8 @@ import { AnnouncementDetail } from './AnnouncementDetail'
 import { Link, useMatch } from '@tanstack/react-location'
 
 export const getAnnouncement = gql`
-query GetAnnouncement($nodeId: ID!) {
-  announcement(nodeId: $nodeId) {
+query GetAnnouncement($id: BigInt!) {
+  announcementById(id: $id) {
     nodeId
     id
     authorId
@@ -22,7 +22,7 @@ query GetAnnouncement($nodeId: ID!) {
 export function AnnouncementPage() {
   const { loading, error, data } = useQuery(getAnnouncement, {
     variables: {
-      "nodeId": useMatch().params.nodeId
+      "id": useMatch().params.id
     }
   })
 

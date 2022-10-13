@@ -16,7 +16,7 @@ export function UserDetail({ id, user }) {
   
   return <>
     <p>Author: {user.username}</p>
-    <div>
+    <div>USER DETAIL
       <p>{`Created ${dayjs(user.createdAt).fromNow()}, ${dayjs(user.createdAt).format('dddd, MMMM D, YYYY h:mm:ss A')}`}</p>
       <p>{`Updated ${dayjs(user.updatedAt).fromNow()}, ${dayjs(user.updatedAt).format('dddd, MMMM D, YYYY h:mm:ss A')}`}</p>
       <h2>Announcements</h2>{announcements}

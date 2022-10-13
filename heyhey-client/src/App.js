@@ -5,6 +5,7 @@ import { AddAnnouncement } from './components/AddAnnouncement'
 import { Users } from './components/Users'
 import { UserPage } from './components/UserPage'
 import { AddUser } from './components/AddUser'
+import { AddUserAnnouncement } from './components/AddUserAnnouncement'
 import { Router, Outlet, ReactLocation } from '@tanstack/react-location'
 
 const routes = [
@@ -17,7 +18,7 @@ const routes = [
     element: <Announcements/>
   },
   {
-    path: "/Announcement/:nodeId",
+    path: "/Announcement/:id",
     element: <AnnouncementPage/>
   },
   {
@@ -29,8 +30,12 @@ const routes = [
     element: <Users/>
   },
   {
-    path: "/User/:nodeId",
+    path: "/User/:id",
     element: <UserPage/>
+  },
+  {
+    path: "/UserAddAnnouncement/:id",
+    element: <AddUserAnnouncement/>
   },
   {
     path: "/AddUser",

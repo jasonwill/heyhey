@@ -34,7 +34,7 @@ const routes = [
     element: <UserPage/>
   },
   {
-    path: "/UserAddAnnouncement/:id",
+    path: "/UserAddAnnouncement/:userid",
     element: <AddUserAnnouncement/>
   },
   {

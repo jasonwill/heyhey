@@ -18,6 +18,7 @@ query GetFilteredAnnouncements($text: String! $end: Cursor $count: Int!)  {
       title
       content
       createdAt
+      updatedAt
       userByAuthorId {
         username
         createdAt

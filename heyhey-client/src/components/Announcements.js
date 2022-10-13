@@ -13,6 +13,7 @@ query GetFilteredAnnouncements($text: String! $end: Cursor $count: Int!)  {
     }
     nodes {
       id
+      nodeId
       authorId
       title
       content

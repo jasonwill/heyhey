@@ -1,12 +1,17 @@
 import './App.css'
 import { Announcements } from './components/Announcements'
 import { AddAnnouncement } from './components/AddAnnouncement'
+import { AnnouncementPage } from './components/AnnouncementPage'
 import { Router, Outlet, ReactLocation } from '@tanstack/react-location'
 
 const routes = [
   {
     path: "/",
     element: <Announcements/>
+  },
+  {
+    path: "/Announcement/:id",
+    element: <AnnouncementPage/>
   },
   {
     path: "AddAnnouncement",

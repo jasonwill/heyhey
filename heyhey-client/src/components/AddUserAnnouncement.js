@@ -14,7 +14,7 @@ mutation CreateAnAnnouncement($ann: CreateAnnouncementInput!){
 `
 export function AddUserAnnouncement() {
   let input
-  const userid = useMatch().params.id
+  const userid = useMatch().params.userid
   // debugger
   const [addAnnouncement, { data, loading, error }] = useMutation(AddAnnouncementMutation)
 

@@ -49,7 +49,7 @@ export function Announcements() {
   ))
   return (
   <div>
-    <span>{endCursor}</span>
+    <div>End Cursor: {endCursor}</div>
     {announcements}
     <Link to = "AddAnnouncement">Add Announcement</Link>
   </div>

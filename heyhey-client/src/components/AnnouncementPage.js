@@ -1,10 +1,10 @@
 import { useQuery, gql } from '@apollo/client'
-import { Announcement } from './Announcement'
+import { AnnouncementDetail } from './AnnouncementDetail'
 import { Link, useMatch } from '@tanstack/react-location'
 
 export const getAnnouncement = gql`
-query GetAnnouncement($id: BigInt!) {
-  announcementById(id: $id) {
+query GetAnnouncement($nodeId: ID!) {
+  announcement(nodeId: $nodeId) {
     nodeId
     id
     authorId
@@ -22,7 +22,7 @@ query GetAnnouncement($id: BigInt!) {
 export function AnnouncementPage() {
   const { loading, error, data } = useQuery(getAnnouncement, {
     variables: {
-      "id": useMatch().params.id
+      "nodeId": useMatch().params.nodeId
     }
   })
 
@@ -33,12 +33,12 @@ export function AnnouncementPage() {
 
 
   const announcement =  (
-    <Announcement key={data.announcementById.id} announcement={data.announcementById} />
+    <AnnouncementDetail announcement={data.announcement} />
   )
   return (
   <div>
     {announcement}
-    <Link to = "AddAnnouncement">Add Announcement</Link><br/>
+    <Link to = "/AddAnnouncement">Add Announcement</Link><br/>
     <Link to = "/">All Announcements</Link>
   </div>
   )

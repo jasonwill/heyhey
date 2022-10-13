@@ -1,23 +1,38 @@
 import './App.css'
 import { Announcements } from './components/Announcements'
-import { AddAnnouncement } from './components/AddAnnouncement'
 import { AnnouncementPage } from './components/AnnouncementPage'
+import { AddAnnouncement } from './components/AddAnnouncement'
+import { Users } from './components/Users'
+import { UserPage } from './components/UserPage'
+import { AddUser } from './components/AddUser'
 import { Router, Outlet, ReactLocation } from '@tanstack/react-location'
 
 const routes = [
   {
-    path: "/",
+    path: "/", //todo landing page
     element: <Announcements/>
   },
   {
-    path: "/Announcement/:id",
+    path: "/Announcement/:nodeId",
     element: <AnnouncementPage/>
   },
   {
-    path: "AddAnnouncement",
+    path: "/AddAnnouncement",
     element: <AddAnnouncement />
+  },
+  {
+    path: "/Users",
+    element: <Users/>
+  },
+  {
+    path: "/User/:nodeId",
+    element: <UserPage/>
+  },
+  {
+    path: "/AddUser",
+    element: <AddUser />
+  },
 
-  }
 ];
 
 const location = new ReactLocation()

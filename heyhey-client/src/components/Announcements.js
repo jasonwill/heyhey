@@ -1,5 +1,6 @@
 import { useQuery, gql } from '@apollo/client'
 import { Announcement } from './Announcement'
+import { Link } from '@tanstack/react-location'
 
 export const getAllAnnouncements = gql`
 query GetFilteredAnnouncements($text: String! $end: Cursor $count: Int!)  {
@@ -49,6 +50,7 @@ export function Announcements() {
   <div>
     <span>{endCursor}</span>
     {announcements}
+    <Link to = "AddAnnouncement">Add Announcement</Link>
   </div>
   )
 }

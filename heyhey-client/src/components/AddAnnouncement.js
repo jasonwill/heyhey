@@ -1,5 +1,7 @@
 import { gql, useMutation } from '@apollo/client'
 import dayjs from 'dayjs'
+import { Link } from '@tanstack/react-location'
+
 
 const AddAnnouncementMutation = gql`
 mutation CreateAnAnnouncement($ann: CreateAnnouncementInput!){
@@ -46,6 +48,7 @@ export function AddAnnouncement() {
         />
         <button type="submit">Add Announcement</button>
       </form>
+      <Link to = "/">All Announcements</Link>
     </div>
   );
 }

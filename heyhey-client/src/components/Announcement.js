@@ -15,3 +15,6 @@ export function Announcement({ id, announcement }) {
     <br />
   </>
 }
+
+
+

@@ -1,14 +1,28 @@
 import './App.css'
 import { Announcements } from './components/Announcements'
 import { AddAnnouncement } from './components/AddAnnouncement'
-import { Router } from '@tanstack/react-location'
+import { Router, Outlet, ReactLocation } from '@tanstack/react-location'
+
+const routes = [
+  {
+    path: "/",
+    element: <Announcements/>
+  },
+  {
+    path: "AddAnnouncement",
+    element: <AddAnnouncement />
+
+  }
+];
+
+const location = new ReactLocation()
 
 export default function App() {
   return (
-    <div>
-      <h2>Hey Hey</h2>
-      <Announcements />
-      <AddAnnouncement />
-    </div>
+    <Router routes = { routes } location = {location}>
+      <div>
+        <Outlet />
+      </div>
+    </Router>
   )
 }

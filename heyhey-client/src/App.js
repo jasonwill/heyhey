@@ -13,6 +13,10 @@ const routes = [
     element: <Announcements/>
   },
   {
+    path: "/Announcements",
+    element: <Announcements/>
+  },
+  {
     path: "/Announcement/:nodeId",
     element: <AnnouncementPage/>
   },

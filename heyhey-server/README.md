@@ -1,4 +1,4 @@
-# HeyHey-Server is an Announcment GraphQL Server
+# HeyHey-Server is an Announcement GraphQL Server
 
 Running in development: `node server.js`
 

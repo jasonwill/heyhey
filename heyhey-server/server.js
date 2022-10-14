@@ -18,7 +18,7 @@ app.use(cors({
 app.use(
   postgraphile(
     pgPool,
-    process.env.SCHEMA_NAMES ? process.env.SCHEMA_NAMES.split(',') : ['public'],
+    process.env.SCHEMA_NAMES ? process.env.SCHEMA_NAMES.split(',') : ['announcements'],
     {
       appendPlugins: [ConnectionFilterPlugin],
       watchPg: true,

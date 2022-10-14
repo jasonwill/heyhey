@@ -1,575 +1,558 @@
-Chinua Achebe
-Peter Ackroyd
-Douglas Adams
-Chimamanda Ngozi Adichie
-Aaron Akinyemi
-Alexandra Harris
-Monica Ali
-Dante Alighieri
-Alistair Cooke
-Isabel Allende
-Kingsley Amis
-Martin Amis
-Maya Angelou
-Annie Proulx
-Jeffrey Archer
-Philip Ardagh
-Simon Armitage
-Isaac Asimov
-Åsne Seierstad
-Diana Athill
-Kate Atkinson
-Margaret Atwood
-WH Auden
-Jane Austen
-Paul Auster
-Julian Baggini
-Paul Bailey
-Beryl Bainbridge
-James Baldwin
-JG Ballard
-Iain Banks
-John Banville
-Clive Barker
-Pat Barker
-Nicola Barker
-Julian Barnes
-Sebastian Barry
-Donald Barthelme
-Belinda Bauer
-Nina Bawden
-Mary Beard
-Beatrix Potter
-Simone de Beauvoir
-Samuel Beckett
-Antony Beevor
-Saul Bellow
-Benjamin Markovits
-George Bernard Shaw
-Louis de Bernières
-John Betjeman
-Maeve Binchy
-Carol Birch
-Quentin Blake
-William Blake
-Enid Blyton
-Roberto Bolaño
-Katherine Boo
-Jorge Luis Borges
-William Boyd
-Ray Bradbury
-Barbara Taylor Bradford
-Stewart Brand
-Raymond Briggs
-Constance Briscoe
-Anne Brontë
-Charlotte Brontë
-Emily Brontë
-Anita Brookner
-Dan Brown
-Jeffrey Brown
-Anthony Browne
-Bill Bryson
-Mikhail Bulgakov
-Anthony Burgess
-Melvin Burgess
-Gordon Burn
-Robert Burns
-William Burroughs
-AS Byatt
-Lord Byron
-Carmen Callil
-Italo Calvino
-Albert Camus
-Truman Capote
-Peter Carey
-Carlos Fuentes
-Lewis Carroll
-Angela Carter
-Raymond Carver
-Eleanor Catton
-Miguel de Cervantes
-Michael Chabon
-Raymond Chandler
-Rajiv Chandrasekaran
-Bruce Chatwin
-Geoffrey Chaucer
-Anton Chekhov
-GK Chesterton
-Lauren Child
-Chris Ware
-Agatha Christie
-Christopher Isherwood
-CJ Sansom
-Tom Clancy
-John Clare
-Arthur C Clarke
-John Cooper Clarke
-Daniel Clowes
-Jonathan Coe
-Paulo Coelho
-JM Coetzee
-Samuel Taylor Coleridge
-Eoin Colfer
-Wilkie Collins
-Jackie Collins
-Colum McCann
-Arthur Conan Doyle
-Joseph Connolly
-Joseph Conrad
-Jilly Cooper
-Patricia Cornwell
-Douglas Coupland
-Jim Crace
-Michael Crichton
-Neil Cross
-Robert Crumb
-Curtis Sittenfeld
-Czesław Miłosz
-Roald Dahl
-David Sedaris
-DBC Pierre
-Edmund de Waal
-Daniel Defoe
-Len Deighton
-Don DeLillo
-Patrick DeWitt
-Giuseppe Tomasi di Lampedusa
-Junot Diaz
-Philip K Dick
-Dick King-Smith
-Charles Dickens
-Emily Dickinson
-Don Paterson
-Emma Donoghue
-Fyodor Dostoevsky
-Roddy Doyle
-Margaret Drabble
-Carol Ann Duffy
-Alexandre Dumas, pere
-Daphne du Maurier
-Helen Dunmore
-Lawrence Durrell
-David Eagleman
-Terry Eagleton
-Bret Easton Ellis
-Umberto Eco
-Esi Edugyan
-Dave Eggers
-George Eliot
-James Ellroy
-Anne Enright
-Jeffrey Eugenides
-Euripides
-Evie Wyld
-F
-William Faulkner
-Sebastian Faulks
-Niall Ferguson
-Helen Fielding
-Henry Fielding
-Orlando Figes
-F Scott Fitzgerald
-Gustave Flaubert
-Ian Fleming
-Gillian Flynn
-EM Forster
-Adam Foulds
-John Fowles
-Dick Francis
-Thomas Frank
-Jonathan Franzen
-Nicci French
-Tana French
-Sigmund Freud
-Nell Freudenberger
-James Frey
-Francis Fukuyama
-G
-G Willow Wilson
-Neil Gaiman
-Damon Galgut
-Petina Gappah
-Simon Garfield
-Alan Garner
-William Gibson
-Martin Gilbert
-Allen Ginsberg
-Malcolm Gladwell
-Nikolai Gogol
-Glen David Gold
-William Golding
-Nadine Gordimer
-Gore Vidal
-Günter Grass
-Alasdair Gray
-Simon Gray
-John Green
-Graham Greene
-Germaine Greer
-Philippa Gregory
-John Grisham
-David Grossman
-H
-Mark Haddon
-Tessa Hadley
-Knut Hamsun
-Mohammed Hanif
-Elizabeth Hardwick
-Thomas Hardy
-Thomas Harris
-Robert Harris
-Tony Harrison
-David Harsent
-Josephine Hart
-Seamus Heaney
-Helen Simpson
-Joseph Heller
-Ernest Hemingway
-Aleksandar Hemon
-James Herbert
-Herta Müller
-Georgette Heyer
-Carl Hiaasen
-Charlie Higson
-Tobias Hill
-Peter Hitchens
-Christopher Hitchens
-Shere Hite
-Eric Hobsbawm
-Alan Hollinghurst
-Holly Black
-Richard Holmes
-Homer
-Chloe Hooper
-Nick Hornby
-Anthony Horowitz
-Michel Houellebecq
-Elizabeth Jane Howard
-Ted Hughes
-Shirley Hughes
-Siri Hustvedt
-Aldous Huxley
-I
-Eva Ibbotson
-Henrik Ibsen
-Mick Imlah
-John Irving
-Kazuo Ishiguro
-J
-Jackie Morris
-Howard Jacobson
-Henry James
-EL James
-PD James
-Jay McInerney
-Jo Nesbø
-Joanna Kavenna
-John Cheever
-John Gray
-Samuel Johnson
-Sadie Jones
-Ben Jonson
-James Joyce
-Juan Gabriel Vásquez
-Tony Judt
-K
-Ismail Kadare
-Franz Kafka
-Ryszard Kapuściński
-Kathryn Schulz
-Jackie Kay
-John Keats
-James Kelman
-Stephen Kelman
-Ken Follett
-Thomas Keneally
-AL Kennedy
-Frank Kermode
-Jack Kerouac
-Marian Keyes
-Stephen King
-Barbara Kingsolver
-Jeff Kinney
-Rudyard Kipling
-Kiran Desai
-Arthur Koestler
-Milan Kundera
-Hanif Kureishi
-Mark Kurlansky
-Tony Kushner
-L
-Jhumpa Lahiri
-RD Laing
-Philip Larkin
-Stieg Larsson
-DH Lawrence
-John le Carré
-Darian Leader
-Harper Lee
-Ursula K Le Guin
-Elmore Leonard
-Doris Lessing
-Jonathan Lethem
-Primo Levi
-Steven D Levitt and Stephen J Dubner
-Andrea Levy
-Deborah Levy
-CS Lewis
-Penelope Lively
-Liz Pichon
-Attica Locke
-John Locke
-David Lodge
-Michael Longley
-Louise O'Neill
-Robert Lowell
-M
-Richard Mabey
-George MacDonald Fraser
-Madeline Miller
-Maggie Gee
-Brooke Magnanti (Belle de Jour)
-Maile Chapman
-Andrei Makine
-Henning Mankell
-Thomas Mann
-Hilary Mantel
-Greil Marcus
-Marcus Sedgwick
-Christopher Marlowe
-Gabriel García Márquez
-Yann Martel
-George RR Martin
-Hisham Matar
-Somerset Maugham
-Armistead Maupin
-Simon Mawer
-Patrick McCabe
-Alexander McCall Smith
-Cormac McCarthy
-Frank McCourt
-Val McDermid
-Ian McEwan
-Roger McGough
-Candia McWilliam
-Herman Melville
-Claire Messud
-Stephenie Meyer
-China Miéville
-Arthur Miller
-AD Miller
-Frank Miller
-John Milton
-Rohinton Mistry
-David Mitchell
-Adrian Mitchell
-Nancy Mitford
-Rutu Modan
-Michel de Montaigne
-Alan Moore
-Lisa Moore
-Lorrie Moore
-Caitlin Moran
-Edwin Morgan
-Michael Morpurgo
-Jan Morris
-Toni Morrison
-Blake Morrison
-Walter Mosley
-Kate Mosse
-Andrew Motion
-Paul Muldoon
-Alice Munro
-Haruki Murakami
-Iris Murdoch
-Paul Murray
-Julie Myerson
-N
-Vladimir Nabokov
-Nadifa Mohamed
-Daljit Nagra
-VS Naipaul
-Naomi Klein
-RK Narayan
-Ned Beauman
-Patrick Ness
-David Nicholls
-Nick Tosches
-Audrey Niffenegger
-O
-Edna O'Brien
-Sean O'Brien
-Eugene O'Neill
-Joyce Carol Oates
-Téa Obreht
-Flann O'Brien
-Ben Okri
-Sharon Olds
-Michael Ondaatje
-George Orwell
-Ruth Ozeki
-P
-Ruth Padel
-Chuck Palahniuk
-Orhan Pamuk
-Boris Pasternak
-Paul Farley
-Michelle Paver
-David Peace
-Basharat Peer
-Mal Peet
-Harvey Pekar
-Penelope Fitzgerald
-Samuel Pepys
-Percy Bysshe Shelley
-Philip Hensher
-Philip Reeve
-Piers Paul Read
-Piers Torday
-Harold Pinter
-Annabel Pitcher
-Sylvia Plath
-Plato
-Edgar Allan Poe
-Peter Porter
-Terry Pratchett
-Marcel Proust
-Philip Pullman
-Thomas Pynchon
-R
-Jonathan Raban
-Rachel Cusk
-Ross Raisin
-Ian Rankin
-Arthur Ransome
-Redmond O'Hanlon
-David Remnick
-Ruth Rendell
-Reza Aslan
-Anne Rice
-Richard Flanagan
-Richard Ford
-Gwendoline Riley
-Robert Graves
-Marilynne Robinson
-Rose Tremain
-Michael Rosen
-Meg Rosoff
-Alex Ross
-Philip Roth
-Rainbow Rowell
-JK Rowling
-Roxane Gay
-Arundhati Roy
-Katherine Rundell
-Salman Rushdie
-Russell Hoban
-S
-Joe Sacco
-Jonathan Safran Foer
-Saki (Hector Hugh Munro)
-JD Salinger
-Michael Sandel
-Sarah Crossan
-Sarah J Maas
-José Saramago
-Jean-Paul Sartre
-Siegfried Sassoon
-George Saunders
-Dorothy L Sayers
-Sir Walter Scott
-WG Sebald
-Will Self
-Maurice Sendak
-Dr Seuss
-William Shakespeare
-Shaun Tan
-Mary Shelley
-Carol Shields
-Lionel Shriver
-Alan Sillitoe
-Georges Simenon
-Posy Simmonds
-Francesca Simon
-Iain Sinclair
-Lemn Sissay
-Edith Sitwell
-Robert Skidelsky
-Jane Smiley
-Ali Smith
-Tom Rob Smith
-Wilbur Smith
-Zadie Smith
-Andrew Solomon
-Aleksandr Solzhenitsyn
-Wole Soyinka
-Muriel Spark
-Art Spiegelman
-Edward St Aubyn
-John Steinbeck
-Gloria Steinem
-Laurence Sterne
-Robert Louis Stevenson
-Kathryn Stockett
-Sue Townsend
-Graham Swift
-Jonathan Swift
-T
-Nassim Nicholas Taleb
-Raymond Tallis
-Alfred Tennyson
-Studs Terkel
-Ngugi wa Thiong'o
-Dylan Thomas
-Hunter S Thompson
-Rupert Thomson
-Colm Tóibín
-JRR Tolkien
-Leo Tolstoy
-Tom McCarthy
-Claire Tomalin
-Justin Torres
-William Trevor
-Hugh Trevor-Roper
-Anthony Trollope
-TS Eliot
-Christos Tsiolkas
-Mark Twain
-U
-David Uberti
-Barry Unsworth
-John Updike
-V
-Mario Vargas Llosa
-Virgil
-Francois Marie Arouet de Voltaire
-Kurt Vonnegut
-W
-Derek Walcott
-Alice Walker
-David Foster Wallace
-Natasha Walter
-Joseph Wambaugh
-Jesmyn Ward
-Alan Warner
-Sarah Waters
-Evelyn Waugh
-Fay Weldon
-HG Wells
-Irvine Welsh
-Edith Wharton
-Edmund White
-Oscar Wilde
-Hugo Williams
-Tennessee Williams
-Jacqueline Wilson
-Jeanette Winterson
-PG Wodehouse
-Naomi Wolf
-Tom Wolfe
-Mary Wollstonecraft
-Virginia Woolf
-William Wordsworth
-John Wyndham
-Diana Wynne Jones
+('Chinua Achebe',         'chinua_achebe',      'chinua_achebe@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Peter Ackroyd',         'peter_ackroyd',      'peter_ackroyd@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Douglas Adams',         'douglas_adams',      'douglas_adams@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Chimamanda Ngozi Adichie',         'chimamanda_ngozi_adichie',                     'chimamanda_ngozi_adichie@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Aaron Akinyemi',        'aaron_akinyemi',     'aaron_akinyemi@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Alexandra Harris',      'alexandra_harris',   'alexandra_harris@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Monica Ali',            'monica_ali',      'monica_ali@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Dante Alighieri',       'dante_alighieri',    'dante_alighieri@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Alistair Cooke',        'alistair_cooke',     'alistair_cooke@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Isabel Allende',        'isabel_allende',     'isabel_allende@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Kingsley Amis',         'kingsley_amis',      'kingsley_amis@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Martin Amis',           'martin_amis',      'martin_amis@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Maya Angelou',          'maya_angelou',      'maya_angelou@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Annie Proulx',          'annie_proulx',      'annie_proulx@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Jeffrey Archer',        'jeffrey_archer',     'jeffrey_archer@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Philip Ardagh',         'philip_ardagh',      'philip_ardagh@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Simon Armitage',        'simon_armitage',     'simon_armitage@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Isaac Asimov',          'isaac_asimov',      'isaac_asimov@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Åsne Seierstad',        'åsne_seierstad',     'åsne_seierstad@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Diana Athill',          'diana_athill',      'diana_athill@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Kate Atkinson',         'kate_atkinson',      'kate_atkinson@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Margaret Atwood',       'margaret_atwood',    'margaret_atwood@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('WH Auden',              'wh_auden',      'wh_auden@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Jane Austen',           'jane_austen',      'jane_austen@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Paul Auster',           'paul_auster',      'paul_auster@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Julian Baggini',        'julian_baggini',     'julian_baggini@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Paul Bailey',           'paul_bailey',      'paul_bailey@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Beryl Bainbridge',      'beryl_bainbridge',   'beryl_bainbridge@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('James Baldwin',         'james_baldwin',      'james_baldwin@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('JG Ballard',            'jg_ballard',      'jg_ballard@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Iain Banks',            'iain_banks',      'iain_banks@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('John Banville',         'john_banville',      'john_banville@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Clive Barker',          'clive_barker',      'clive_barker@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Pat Barker',            'pat_barker',      'pat_barker@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Nicola Barker',         'nicola_barker',      'nicola_barker@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Julian Barnes',         'julian_barnes',      'julian_barnes@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Sebastian Barry',       'sebastian_barry',    'sebastian_barry@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Donald Barthelme',      'donald_barthelme',   'donald_barthelme@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Belinda Bauer',         'belinda_bauer',      'belinda_bauer@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Nina Bawden',           'nina_bawden',      'nina_bawden@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Mary Beard',            'mary_beard',      'mary_beard@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Beatrix Potter',        'beatrix_potter',     'beatrix_potter@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Simone de Beauvoir',    'simone_de_beauvoir', 'simone_de_beauvoir@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Samuel Beckett',        'samuel_beckett',     'samuel_beckett@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Antony Beevor',         'antony_beevor',      'antony_beevor@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Saul Bellow',           'saul_bellow',      'saul_bellow@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Benjamin Markovits',    'benjamin_markovits', 'benjamin_markovits@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('George Bernard Shaw',   'george_bernard_shaw','george_bernard_shaw@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Louis de Bernières',    'louis_de_bernières', 'louis_de_bernières@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('John Betjeman',         'john_betjeman',      'john_betjeman@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Maeve Binchy',          'maeve_binchy',      'maeve_binchy@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Carol Birch',           'carol_birch',      'carol_birch@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Quentin Blake',         'quentin_blake',      'quentin_blake@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('William Blake',         'william_blake',      'william_blake@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Enid Blyton',           'enid_blyton',      'enid_blyton@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Roberto Bolaño',        'roberto_bolaño',     'roberto_bolaño@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Katherine Boo',         'katherine_boo',      'katherine_boo@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Jorge Luis Borges',     'jorge_luis_borges',  'jorge_luis_borges@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('William Boyd',          'william_boyd',      'william_boyd@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Ray Bradbury',          'ray_bradbury',      'ray_bradbury@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Barbara Taylor Bradford',          'barbara_taylor_bradford',                      'barbara_taylor_bradford@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Stewart Brand',         'stewart_brand',      'stewart_brand@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Raymond Briggs',        'raymond_briggs',     'raymond_briggs@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Constance Briscoe',     'constance_briscoe',  'constance_briscoe@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Anne Brontë',           'anne_brontë',      'anne_brontë@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Charlotte Brontë',      'charlotte_brontë',   'charlotte_brontë@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Emily Brontë',          'emily_brontë',      'emily_brontë@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Anita Brookner',        'anita_brookner',     'anita_brookner@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Dan Brown',             'dan_brown',      'dan_brown@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Jeffrey Brown',         'jeffrey_brown',      'jeffrey_brown@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Anthony Browne',        'anthony_browne',     'anthony_browne@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Bill Bryson',           'bill_bryson',      'bill_bryson@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Mikhail Bulgakov',      'mikhail_bulgakov',   'mikhail_bulgakov@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Anthony Burgess',       'anthony_burgess',    'anthony_burgess@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Melvin Burgess',        'melvin_burgess',     'melvin_burgess@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Gordon Burn',           'gordon_burn',      'gordon_burn@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Robert Burns',          'robert_burns',      'robert_burns@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('William Burroughs',     'william_burroughs',  'william_burroughs@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('AS Byatt',              'as_byatt',      'as_byatt@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Lord Byron',            'lord_byron',      'lord_byron@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Carmen Callil',         'carmen_callil',      'carmen_callil@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Italo Calvino',         'italo_calvino',      'italo_calvino@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Albert Camus',          'albert_camus',      'albert_camus@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Truman Capote',         'truman_capote',      'truman_capote@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Peter Carey',           'peter_carey',      'peter_carey@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Carlos Fuentes',        'carlos_fuentes',     'carlos_fuentes@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Lewis Carroll',         'lewis_carroll',      'lewis_carroll@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Angela Carter',         'angela_carter',      'angela_carter@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Raymond Carver',        'raymond_carver',     'raymond_carver@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Eleanor Catton',        'eleanor_catton',     'eleanor_catton@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Miguel de Cervantes',   'miguel_de_cervantes','miguel_de_cervantes@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Michael Chabon',        'michael_chabon',     'michael_chabon@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Raymond Chandler',      'raymond_chandler',   'raymond_chandler@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Rajiv Chandrasekaran',  'rajiv_chandrasekaran',                         'rajiv_chandrasekaran@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Bruce Chatwin',         'bruce_chatwin',      'bruce_chatwin@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Geoffrey Chaucer',      'geoffrey_chaucer',   'geoffrey_chaucer@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Anton Chekhov',         'anton_chekhov',      'anton_chekhov@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('GK Chesterton',         'gk_chesterton',      'gk_chesterton@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Lauren Child',          'lauren_child',      'lauren_child@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Chris Ware',            'chris_ware',      'chris_ware@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Agatha Christie',       'agatha_christie',    'agatha_christie@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Christopher Isherwood', 'christopher_isherwood',                        'christopher_isherwood@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('CJ Sansom',             'cj_sansom',      'cj_sansom@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Tom Clancy',            'tom_clancy',      'tom_clancy@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('John Clare',            'john_clare',      'john_clare@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Arthur C Clarke',       'arthur_c_clarke',    'arthur_c_clarke@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('John Cooper Clarke',    'john_cooper_clarke', 'john_cooper_clarke@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Daniel Clowes',         'daniel_clowes',      'daniel_clowes@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Jonathan Coe',          'jonathan_coe',      'jonathan_coe@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Paulo Coelho',          'paulo_coelho',      'paulo_coelho@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('JM Coetzee',            'jm_coetzee',      'jm_coetzee@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Samuel Taylor Coleridge',          'samuel_taylor_coleridge',                      'samuel_taylor_coleridge@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Eoin Colfer',           'eoin_colfer',      'eoin_colfer@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Wilkie Collins',        'wilkie_collins',     'wilkie_collins@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Jackie Collins',        'jackie_collins',     'jackie_collins@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Colum McCann',          'colum_mccann',      'colum_mccann@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Arthur Conan Doyle',    'arthur_conan_doyle', 'arthur_conan_doyle@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Joseph Connolly',       'joseph_connolly',    'joseph_connolly@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Joseph Conrad',         'joseph_conrad',      'joseph_conrad@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Jilly Cooper',          'jilly_cooper',      'jilly_cooper@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Patricia Cornwell',     'patricia_cornwell',  'patricia_cornwell@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Douglas Coupland',      'douglas_coupland',   'douglas_coupland@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Jim Crace',             'jim_crace',      'jim_crace@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Michael Crichton',      'michael_crichton',   'michael_crichton@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Neil Cross',            'neil_cross',      'neil_cross@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Robert Crumb',          'robert_crumb',      'robert_crumb@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Curtis Sittenfeld',     'curtis_sittenfeld',  'curtis_sittenfeld@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Czesław Miłosz',        'czesław_miłosz',     'czesław_miłosz@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Roald Dahl',            'roald_dahl',      'roald_dahl@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('David Sedaris',         'david_sedaris',      'david_sedaris@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('DBC Pierre',            'dbc_pierre',      'dbc_pierre@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Edmund de Waal',        'edmund_de_waal',     'edmund_de_waal@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Daniel Defoe',          'daniel_defoe',      'daniel_defoe@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Len Deighton',          'len_deighton',      'len_deighton@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Don DeLillo',           'don_delillo',      'don_delillo@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Patrick DeWitt',        'patrick_dewitt',     'patrick_dewitt@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Giuseppe Tomasi di Lampedusa',     'giuseppe_tomasi_di_lampedusa',                 'giuseppe_tomasi_di_lampedusa@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Junot Diaz',            'junot_diaz',      'junot_diaz@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Philip K Dick',         'philip_k_dick',      'philip_k_dick@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Dick King-Smith',       'dick_king-smith',    'dick_king-smith@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Charles Dickens',       'charles_dickens',    'charles_dickens@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Emily Dickinson',       'emily_dickinson',    'emily_dickinson@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Don Paterson',          'don_paterson',      'don_paterson@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Emma Donoghue',         'emma_donoghue',      'emma_donoghue@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Fyodor Dostoevsky',     'fyodor_dostoevsky',  'fyodor_dostoevsky@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Roddy Doyle',           'roddy_doyle',      'roddy_doyle@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Margaret Drabble',      'margaret_drabble',   'margaret_drabble@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Carol Ann Duffy',       'carol_ann_duffy',    'carol_ann_duffy@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Alexandre Dumas, pere', 'alexandre_dumas,_pere',                        'alexandre_dumas,_pere@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Daphne du Maurier',     'daphne_du_maurier',  'daphne_du_maurier@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Helen Dunmore',         'helen_dunmore',      'helen_dunmore@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Lawrence Durrell',      'lawrence_durrell',   'lawrence_durrell@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('David Eagleman',        'david_eagleman',     'david_eagleman@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Terry Eagleton',        'terry_eagleton',     'terry_eagleton@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Bret Easton Ellis',     'bret_easton_ellis',  'bret_easton_ellis@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Umberto Eco',           'umberto_eco',      'umberto_eco@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Esi Edugyan',           'esi_edugyan',      'esi_edugyan@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Dave Eggers',           'dave_eggers',      'dave_eggers@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('George Eliot',          'george_eliot',      'george_eliot@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('James Ellroy',          'james_ellroy',      'james_ellroy@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Anne Enright',          'anne_enright',      'anne_enright@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Jeffrey Eugenides',     'jeffrey_eugenides',  'jeffrey_eugenides@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Euripides',             'euripides',      'euripides@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Evie Wyld',             'evie_wyld',      'evie_wyld@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('William Faulkner',      'william_faulkner',   'william_faulkner@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Sebastian Faulks',      'sebastian_faulks',   'sebastian_faulks@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Niall Ferguson',        'niall_ferguson',     'niall_ferguson@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Helen Fielding',        'helen_fielding',     'helen_fielding@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Henry Fielding',        'henry_fielding',     'henry_fielding@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Orlando Figes',         'orlando_figes',      'orlando_figes@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('F Scott Fitzgerald',    'f_scott_fitzgerald', 'f_scott_fitzgerald@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Gustave Flaubert',      'gustave_flaubert',   'gustave_flaubert@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Ian Fleming',           'ian_fleming',      'ian_fleming@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Gillian Flynn',         'gillian_flynn',      'gillian_flynn@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('EM Forster',            'em_forster',      'em_forster@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Adam Foulds',           'adam_foulds',      'adam_foulds@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('John Fowles',           'john_fowles',      'john_fowles@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Dick Francis',          'dick_francis',      'dick_francis@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Thomas Frank',          'thomas_frank',      'thomas_frank@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Jonathan Franzen',      'jonathan_franzen',   'jonathan_franzen@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Nicci French',          'nicci_french',      'nicci_french@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Tana French',           'tana_french',      'tana_french@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Sigmund Freud',         'sigmund_freud',      'sigmund_freud@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Nell Freudenberger',    'nell_freudenberger', 'nell_freudenberger@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('James Frey',            'james_frey',      'james_frey@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Francis Fukuyama',      'francis_fukuyama',   'francis_fukuyama@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('G Willow Wilson',       'g_willow_wilson',    'g_willow_wilson@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Neil Gaiman',           'neil_gaiman',      'neil_gaiman@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Damon Galgut',          'damon_galgut',      'damon_galgut@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Petina Gappah',         'petina_gappah',      'petina_gappah@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Simon Garfield',        'simon_garfield',     'simon_garfield@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Alan Garner',           'alan_garner',      'alan_garner@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('William Gibson',        'william_gibson',     'william_gibson@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Martin Gilbert',        'martin_gilbert',     'martin_gilbert@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Allen Ginsberg',        'allen_ginsberg',     'allen_ginsberg@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Malcolm Gladwell',      'malcolm_gladwell',   'malcolm_gladwell@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Nikolai Gogol',         'nikolai_gogol',      'nikolai_gogol@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Glen David Gold',       'glen_david_gold',    'glen_david_gold@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('William Golding',       'william_golding',    'william_golding@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Nadine Gordimer',       'nadine_gordimer',    'nadine_gordimer@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Gore Vidal',            'gore_vidal',      'gore_vidal@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Günter Grass',          'günter_grass',      'günter_grass@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Alasdair Gray',         'alasdair_gray',      'alasdair_gray@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Simon Gray',            'simon_gray',      'simon_gray@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('John Green',            'john_green',      'john_green@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Graham Greene',         'graham_greene',      'graham_greene@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Germaine Greer',        'germaine_greer',     'germaine_greer@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Philippa Gregory',      'philippa_gregory',   'philippa_gregory@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('John Grisham',          'john_grisham',      'john_grisham@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('David Grossman',        'david_grossman',     'david_grossman@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Mark Haddon',           'mark_haddon',      'mark_haddon@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Tessa Hadley',          'tessa_hadley',      'tessa_hadley@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Knut Hamsun',           'knut_hamsun',      'knut_hamsun@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Mohammed Hanif',        'mohammed_hanif',     'mohammed_hanif@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Elizabeth Hardwick',    'elizabeth_hardwick', 'elizabeth_hardwick@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Thomas Hardy',          'thomas_hardy',      'thomas_hardy@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Thomas Harris',         'thomas_harris',      'thomas_harris@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Robert Harris',         'robert_harris',      'robert_harris@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Tony Harrison',         'tony_harrison',      'tony_harrison@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('David Harsent',         'david_harsent',      'david_harsent@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Josephine Hart',        'josephine_hart',     'josephine_hart@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Seamus Heaney',         'seamus_heaney',      'seamus_heaney@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Helen Simpson',         'helen_simpson',      'helen_simpson@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Joseph Heller',         'joseph_heller',      'joseph_heller@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Ernest Hemingway',      'ernest_hemingway',   'ernest_hemingway@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Aleksandar Hemon',      'aleksandar_hemon',   'aleksandar_hemon@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('James Herbert',         'james_herbert',      'james_herbert@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Herta Müller',          'herta_müller',      'herta_müller@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Georgette Heyer',       'georgette_heyer',    'georgette_heyer@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Carl Hiaasen',          'carl_hiaasen',      'carl_hiaasen@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Charlie Higson',        'charlie_higson',     'charlie_higson@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Tobias Hill',           'tobias_hill',      'tobias_hill@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Peter Hitchens',        'peter_hitchens',     'peter_hitchens@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Christopher Hitchens',  'christopher_hitchens',                         'christopher_hitchens@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Shere Hite',            'shere_hite',      'shere_hite@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Eric Hobsbawm',         'eric_hobsbawm',      'eric_hobsbawm@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Alan Hollinghurst',     'alan_hollinghurst',  'alan_hollinghurst@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Holly Black',           'holly_black',      'holly_black@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Richard Holmes',        'richard_holmes',     'richard_holmes@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Homer',                 'homer',      'homer@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Chloe Hooper',          'chloe_hooper',      'chloe_hooper@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Nick Hornby',           'nick_hornby',      'nick_hornby@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Anthony Horowitz',      'anthony_horowitz',   'anthony_horowitz@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Michel Houellebecq',    'michel_houellebecq', 'michel_houellebecq@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Elizabeth Jane Howard', 'elizabeth_jane_howard',                        'elizabeth_jane_howard@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Ted Hughes',            'ted_hughes',      'ted_hughes@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Shirley Hughes',        'shirley_hughes',     'shirley_hughes@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Siri Hustvedt',         'siri_hustvedt',      'siri_hustvedt@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Aldous Huxley',         'aldous_huxley',      'aldous_huxley@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Eva Ibbotson',          'eva_ibbotson',      'eva_ibbotson@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Henrik Ibsen',          'henrik_ibsen',      'henrik_ibsen@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Mick Imlah',            'mick_imlah',      'mick_imlah@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('John Irving',           'john_irving',      'john_irving@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Kazuo Ishiguro',        'kazuo_ishiguro',     'kazuo_ishiguro@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Jackie Morris',         'jackie_morris',      'jackie_morris@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Howard Jacobson',       'howard_jacobson',    'howard_jacobson@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Henry James',           'henry_james',      'henry_james@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('EL James',              'el_james',      'el_james@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('PD James',              'pd_james',      'pd_james@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Jay McInerney',         'jay_mcinerney',      'jay_mcinerney@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Jo Nesbø',              'jo_nesbø',      'jo_nesbø@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Joanna Kavenna',        'joanna_kavenna',     'joanna_kavenna@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('John Cheever',          'john_cheever',      'john_cheever@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('John Gray',             'john_gray',      'john_gray@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Samuel Johnson',        'samuel_johnson',     'samuel_johnson@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Sadie Jones',           'sadie_jones',      'sadie_jones@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Ben Jonson',            'ben_jonson',      'ben_jonson@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('James Joyce',           'james_joyce',      'james_joyce@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Juan Gabriel Vásquez',  'juan_gabriel_vásquez',                         'juan_gabriel_vásquez@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Tony Judt',             'tony_judt',      'tony_judt@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Ismail Kadare',         'ismail_kadare',      'ismail_kadare@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Franz Kafka',           'franz_kafka',      'franz_kafka@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Ryszard Kapuściński',   'ryszard_kapuściński','ryszard_kapuściński@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Kathryn Schulz',        'kathryn_schulz',     'kathryn_schulz@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Jackie Kay',            'jackie_kay',      'jackie_kay@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('John Keats',            'john_keats',      'john_keats@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('James Kelman',          'james_kelman',      'james_kelman@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Stephen Kelman',        'stephen_kelman',     'stephen_kelman@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Ken Follett',           'ken_follett',      'ken_follett@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Thomas Keneally',       'thomas_keneally',    'thomas_keneally@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('AL Kennedy',            'al_kennedy',      'al_kennedy@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Frank Kermode',         'frank_kermode',      'frank_kermode@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Jack Kerouac',          'jack_kerouac',      'jack_kerouac@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Marian Keyes',          'marian_keyes',      'marian_keyes@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Stephen King',          'stephen_king',      'stephen_king@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Barbara Kingsolver',    'barbara_kingsolver', 'barbara_kingsolver@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Jeff Kinney',           'jeff_kinney',      'jeff_kinney@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Rudyard Kipling',       'rudyard_kipling',    'rudyard_kipling@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Kiran Desai',           'kiran_desai',      'kiran_desai@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Arthur Koestler',       'arthur_koestler',    'arthur_koestler@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Milan Kundera',         'milan_kundera',      'milan_kundera@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Hanif Kureishi',        'hanif_kureishi',     'hanif_kureishi@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Mark Kurlansky',        'mark_kurlansky',     'mark_kurlansky@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Tony Kushner',          'tony_kushner',      'tony_kushner@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Jhumpa Lahiri',         'jhumpa_lahiri',      'jhumpa_lahiri@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('RD Laing',              'rd_laing',      'rd_laing@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Philip Larkin',         'philip_larkin',      'philip_larkin@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Stieg Larsson',         'stieg_larsson',      'stieg_larsson@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('DH Lawrence',           'dh_lawrence',      'dh_lawrence@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('John le Carré',         'john_le_carré',      'john_le_carré@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Darian Leader',         'darian_leader',      'darian_leader@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Harper Lee',            'harper_lee',      'harper_lee@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Ursula K Le Guin',      'ursula_k_le_guin',   'ursula_k_le_guin@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Elmore Leonard',        'elmore_leonard',     'elmore_leonard@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Doris Lessing',         'doris_lessing',      'doris_lessing@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Jonathan Lethem',       'jonathan_lethem',    'jonathan_lethem@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Primo Levi',            'primo_levi',      'primo_levi@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Steven D Levitt and Stephen J Dubner',                       'steven_d_levitt_and_stephen_j_dubner',         'steven_d_levitt_and_stephen_j_dubner@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Andrea Levy',           'andrea_levy',      'andrea_levy@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Deborah Levy',          'deborah_levy',      'deborah_levy@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('CS Lewis',              'cs_lewis',      'cs_lewis@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Penelope Lively',       'penelope_lively',    'penelope_lively@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Liz Pichon',            'liz_pichon',      'liz_pichon@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Attica Locke',          'attica_locke',      'attica_locke@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('John Locke',            'john_locke',      'john_locke@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('David Lodge',           'david_lodge',      'david_lodge@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Michael Longley',       'michael_longley',    'michael_longley@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Louise O''Neill',        'louise_oneill',     'louise_o''neill@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Robert Lowell',         'robert_lowell',      'robert_lowell@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Richard Mabey',         'richard_mabey',      'richard_mabey@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('George MacDonald Fraser',          'george_macdonald_fraser',                      'george_macdonald_fraser@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Madeline Miller',       'madeline_miller',    'madeline_miller@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Maggie Gee',            'maggie_gee',      'maggie_gee@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Brooke Magnanti (Belle de Jour)',  'brooke_magnanti_(belle_de_jour)',              'brooke_magnanti_(belle_de_jour)@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Maile Chapman',         'maile_chapman',      'maile_chapman@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Andrei Makine',         'andrei_makine',      'andrei_makine@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Henning Mankell',       'henning_mankell',    'henning_mankell@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Thomas Mann',           'thomas_mann',      'thomas_mann@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Hilary Mantel',         'hilary_mantel',      'hilary_mantel@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Greil Marcus',          'greil_marcus',      'greil_marcus@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Marcus Sedgwick',       'marcus_sedgwick',    'marcus_sedgwick@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Christopher Marlowe',   'christopher_marlowe','christopher_marlowe@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Gabriel García Márquez','gabriel_garcía_márquez',                       'gabriel_garcía_márquez@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Yann Martel',           'yann_martel',      'yann_martel@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('George RR Martin',      'george_rr_martin',   'george_rr_martin@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Hisham Matar',          'hisham_matar',      'hisham_matar@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Somerset Maugham',      'somerset_maugham',   'somerset_maugham@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Armistead Maupin',      'armistead_maupin',   'armistead_maupin@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Simon Mawer',           'simon_mawer',      'simon_mawer@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Patrick McCabe',        'patrick_mccabe',     'patrick_mccabe@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Alexander McCall Smith','alexander_mccall_smith',                       'alexander_mccall_smith@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Cormac McCarthy',       'cormac_mccarthy',    'cormac_mccarthy@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Frank McCourt',         'frank_mccourt',      'frank_mccourt@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Val McDermid',          'val_mcdermid',      'val_mcdermid@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Ian McEwan',            'ian_mcewan',      'ian_mcewan@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Roger McGough',         'roger_mcgough',      'roger_mcgough@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Candia McWilliam',      'candia_mcwilliam',   'candia_mcwilliam@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Herman Melville',       'herman_melville',    'herman_melville@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Claire Messud',         'claire_messud',      'claire_messud@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Stephenie Meyer',       'stephenie_meyer',    'stephenie_meyer@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('China Miéville',        'china_miéville',     'china_miéville@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Arthur Miller',         'arthur_miller',      'arthur_miller@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('AD Miller',             'ad_miller',      'ad_miller@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Frank Miller',          'frank_miller',      'frank_miller@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('John Milton',           'john_milton',      'john_milton@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Rohinton Mistry',       'rohinton_mistry',    'rohinton_mistry@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('David Mitchell',        'david_mitchell',     'david_mitchell@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Adrian Mitchell',       'adrian_mitchell',    'adrian_mitchell@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Nancy Mitford',         'nancy_mitford',      'nancy_mitford@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Rutu Modan',            'rutu_modan',      'rutu_modan@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Michel de Montaigne',   'michel_de_montaigne','michel_de_montaigne@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Alan Moore',            'alan_moore',      'alan_moore@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Lisa Moore',            'lisa_moore',      'lisa_moore@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Lorrie Moore',          'lorrie_moore',      'lorrie_moore@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Caitlin Moran',         'caitlin_moran',      'caitlin_moran@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Edwin Morgan',          'edwin_morgan',      'edwin_morgan@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Michael Morpurgo',      'michael_morpurgo',   'michael_morpurgo@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Jan Morris',            'jan_morris',      'jan_morris@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Toni Morrison',         'toni_morrison',      'toni_morrison@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Blake Morrison',        'blake_morrison',     'blake_morrison@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Walter Mosley',         'walter_mosley',      'walter_mosley@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Kate Mosse',            'kate_mosse',      'kate_mosse@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Andrew Motion',         'andrew_motion',      'andrew_motion@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Paul Muldoon',          'paul_muldoon',      'paul_muldoon@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Alice Munro',           'alice_munro',      'alice_munro@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Haruki Murakami',       'haruki_murakami',    'haruki_murakami@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Iris Murdoch',          'iris_murdoch',      'iris_murdoch@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Paul Murray',           'paul_murray',      'paul_murray@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Julie Myerson',         'julie_myerson',      'julie_myerson@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Vladimir Nabokov',      'vladimir_nabokov',   'vladimir_nabokov@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Nadifa Mohamed',        'nadifa_mohamed',     'nadifa_mohamed@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Daljit Nagra',          'daljit_nagra',      'daljit_nagra@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('VS Naipaul',            'vs_naipaul',      'vs_naipaul@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Naomi Klein',           'naomi_klein',      'naomi_klein@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('RK Narayan',            'rk_narayan',      'rk_narayan@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Ned Beauman',           'ned_beauman',      'ned_beauman@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Patrick Ness',          'patrick_ness',      'patrick_ness@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('David Nicholls',        'david_nicholls',     'david_nicholls@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Nick Tosches',          'nick_tosches',      'nick_tosches@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Audrey Niffenegger',    'audrey_niffenegger', 'audrey_niffenegger@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Edna O''Brien',          'edna_obrien',      'edna_o''brien@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Sean O''Brien',          'sean_obrien',      'sean_o''brien@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Eugene O''Neill',        'eugene_oneill',     'eugene_o''neill@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Joyce Carol Oates',     'joyce_carol_oates',  'joyce_carol_oates@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Téa Obreht',            'téa_obreht',      'téa_obreht@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Flann O''Brien',         'flann_obrien',      'flann_o''brien@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Ben Okri',              'ben_okri',      'ben_okri@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Sharon Olds',           'sharon_olds',      'sharon_olds@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Michael Ondaatje',      'michael_ondaatje',   'michael_ondaatje@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('George Orwell',         'george_orwell',      'george_orwell@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Ruth Ozeki',            'ruth_ozeki',      'ruth_ozeki@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Ruth Padel',            'ruth_padel',      'ruth_padel@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Chuck Palahniuk',       'chuck_palahniuk',    'chuck_palahniuk@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Orhan Pamuk',           'orhan_pamuk',      'orhan_pamuk@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Boris Pasternak',       'boris_pasternak',    'boris_pasternak@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Paul Farley',           'paul_farley',      'paul_farley@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Michelle Paver',        'michelle_paver',     'michelle_paver@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('David Peace',           'david_peace',      'david_peace@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Basharat Peer',         'basharat_peer',      'basharat_peer@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Mal Peet',              'mal_peet',      'mal_peet@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Harvey Pekar',          'harvey_pekar',      'harvey_pekar@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Penelope Fitzgerald',   'penelope_fitzgerald','penelope_fitzgerald@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Samuel Pepys',          'samuel_pepys',      'samuel_pepys@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Percy Bysshe Shelley',  'percy_bysshe_shelley',                         'percy_bysshe_shelley@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Philip Hensher',        'philip_hensher',     'philip_hensher@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Philip Reeve',          'philip_reeve',      'philip_reeve@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Piers Paul Read',       'piers_paul_read',    'piers_paul_read@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Piers Torday',          'piers_torday',      'piers_torday@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Harold Pinter',         'harold_pinter',      'harold_pinter@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Annabel Pitcher',       'annabel_pitcher',    'annabel_pitcher@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Sylvia Plath',          'sylvia_plath',      'sylvia_plath@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Plato',                 'plato',      'plato@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Edgar Allan Poe',       'edgar_allan_poe',    'edgar_allan_poe@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Peter Porter',          'peter_porter',      'peter_porter@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Terry Pratchett',       'terry_pratchett',    'terry_pratchett@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Marcel Proust',         'marcel_proust',      'marcel_proust@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Philip Pullman',        'philip_pullman',     'philip_pullman@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Thomas Pynchon',        'thomas_pynchon',     'thomas_pynchon@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Jonathan Raban',        'jonathan_raban',     'jonathan_raban@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Rachel Cusk',           'rachel_cusk',      'rachel_cusk@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Ross Raisin',           'ross_raisin',      'ross_raisin@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Ian Rankin',            'ian_rankin',      'ian_rankin@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Arthur Ransome',        'arthur_ransome',     'arthur_ransome@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Redmond O''Hanlon',      'redmond_ohanlon',   'redmond_o''hanlon@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('David Remnick',         'david_remnick',      'david_remnick@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Ruth Rendell',          'ruth_rendell',      'ruth_rendell@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Reza Aslan',            'reza_aslan',      'reza_aslan@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Anne Rice',             'anne_rice',      'anne_rice@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Richard Flanagan',      'richard_flanagan',   'richard_flanagan@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Richard Ford',          'richard_ford',      'richard_ford@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Gwendoline Riley',      'gwendoline_riley',   'gwendoline_riley@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Robert Graves',         'robert_graves',      'robert_graves@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Marilynne Robinson',    'marilynne_robinson', 'marilynne_robinson@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Rose Tremain',          'rose_tremain',      'rose_tremain@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Michael Rosen',         'michael_rosen',      'michael_rosen@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Meg Rosoff',            'meg_rosoff',      'meg_rosoff@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Alex Ross',             'alex_ross',      'alex_ross@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Philip Roth',           'philip_roth',      'philip_roth@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Rainbow Rowell',        'rainbow_rowell',     'rainbow_rowell@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('JK Rowling',            'jk_rowling',      'jk_rowling@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Roxane Gay',            'roxane_gay',      'roxane_gay@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Arundhati Roy',         'arundhati_roy',      'arundhati_roy@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Katherine Rundell',     'katherine_rundell',  'katherine_rundell@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Salman Rushdie',        'salman_rushdie',     'salman_rushdie@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Russell Hoban',         'russell_hoban',      'russell_hoban@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Joe Sacco',             'joe_sacco',      'joe_sacco@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Jonathan Safran Foer',  'jonathan_safran_foer',                         'jonathan_safran_foer@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Saki (Hector Hugh Munro)',         'saki_(hector_hugh_munro)',                     'saki_(hector_hugh_munro)@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('JD Salinger',           'jd_salinger',      'jd_salinger@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Michael Sandel',        'michael_sandel',     'michael_sandel@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Sarah Crossan',         'sarah_crossan',      'sarah_crossan@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Sarah J Maas',          'sarah_j_maas',      'sarah_j_maas@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('José Saramago',         'josé_saramago',      'josé_saramago@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Jean-Paul Sartre',      'jean-paul_sartre',   'jean-paul_sartre@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Siegfried Sassoon',     'siegfried_sassoon',  'siegfried_sassoon@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('George Saunders',       'george_saunders',    'george_saunders@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Dorothy L Sayers',      'dorothy_l_sayers',   'dorothy_l_sayers@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Sir Walter Scott',      'sir_walter_scott',   'sir_walter_scott@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('WG Sebald',             'wg_sebald',      'wg_sebald@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Will Self',             'will_self',      'will_self@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Maurice Sendak',        'maurice_sendak',     'maurice_sendak@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Dr Seuss',              'dr_seuss',      'dr_seuss@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('William Shakespeare',   'william_shakespeare','william_shakespeare@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Shaun Tan',             'shaun_tan',      'shaun_tan@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Mary Shelley',          'mary_shelley',      'mary_shelley@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Carol Shields',         'carol_shields',      'carol_shields@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Lionel Shriver',        'lionel_shriver',     'lionel_shriver@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Alan Sillitoe',         'alan_sillitoe',      'alan_sillitoe@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Georges Simenon',       'georges_simenon',    'georges_simenon@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Posy Simmonds',         'posy_simmonds',      'posy_simmonds@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Francesca Simon',       'francesca_simon',    'francesca_simon@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Iain Sinclair',         'iain_sinclair',      'iain_sinclair@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Lemn Sissay',           'lemn_sissay',      'lemn_sissay@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Edith Sitwell',         'edith_sitwell',      'edith_sitwell@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Robert Skidelsky',      'robert_skidelsky',   'robert_skidelsky@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Jane Smiley',           'jane_smiley',      'jane_smiley@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Ali Smith',             'ali_smith',      'ali_smith@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Tom Rob Smith',         'tom_rob_smith',      'tom_rob_smith@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Wilbur Smith',          'wilbur_smith',      'wilbur_smith@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Zadie Smith',           'zadie_smith',      'zadie_smith@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Andrew Solomon',        'andrew_solomon',     'andrew_solomon@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Aleksandr Solzhenitsyn','aleksandr_solzhenitsyn',                       'aleksandr_solzhenitsyn@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Wole Soyinka',          'wole_soyinka',      'wole_soyinka@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Muriel Spark',          'muriel_spark',      'muriel_spark@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Art Spiegelman',        'art_spiegelman',     'art_spiegelman@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Edward St Aubyn',       'edward_st_aubyn',    'edward_st_aubyn@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('John Steinbeck',        'john_steinbeck',     'john_steinbeck@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Gloria Steinem',        'gloria_steinem',     'gloria_steinem@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Laurence Sterne',       'laurence_sterne',    'laurence_sterne@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Robert Louis Stevenson','robert_louis_stevenson',                       'robert_louis_stevenson@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Kathryn Stockett',      'kathryn_stockett',   'kathryn_stockett@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Sue Townsend',          'sue_townsend',      'sue_townsend@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Graham Swift',          'graham_swift',      'graham_swift@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Jonathan Swift',        'jonathan_swift',     'jonathan_swift@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Nassim Nicholas Taleb', 'nassim_nicholas_taleb',                        'nassim_nicholas_taleb@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Raymond Tallis',        'raymond_tallis',     'raymond_tallis@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Alfred Tennyson',       'alfred_tennyson',    'alfred_tennyson@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Studs Terkel',          'studs_terkel',      'studs_terkel@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Ngugi wa Thiong''o',     'ngugi_wa_thiongo',  'ngugi_wa_thiong''o@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Dylan Thomas',          'dylan_thomas',      'dylan_thomas@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Hunter S Thompson',     'hunter_s_thompson',  'hunter_s_thompson@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Rupert Thomson',        'rupert_thomson',     'rupert_thomson@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Colm Tóibín',           'colm_tóibín',      'colm_tóibín@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('JRR Tolkien',           'jrr_tolkien',      'jrr_tolkien@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Leo Tolstoy',           'leo_tolstoy',      'leo_tolstoy@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Tom McCarthy',          'tom_mccarthy',      'tom_mccarthy@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Claire Tomalin',        'claire_tomalin',     'claire_tomalin@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Justin Torres',         'justin_torres',      'justin_torres@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('William Trevor',        'william_trevor',     'william_trevor@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Hugh Trevor-Roper',     'hugh_trevor-roper',  'hugh_trevor-roper@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Anthony Trollope',      'anthony_trollope',   'anthony_trollope@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('TS Eliot',              'ts_eliot',      'ts_eliot@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Christos Tsiolkas',     'christos_tsiolkas',  'christos_tsiolkas@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Mark Twain',            'mark_twain',      'mark_twain@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('David Uberti',          'david_uberti',      'david_uberti@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Barry Unsworth',        'barry_unsworth',     'barry_unsworth@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('John Updike',           'john_updike',      'john_updike@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Mario Vargas Llosa',    'mario_vargas_llosa', 'mario_vargas_llosa@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Virgil',                'virgil',      'virgil@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Francois Marie Arouet de Voltaire','francois_marie_arouet_de_voltaire',            'francois_marie_arouet_de_voltaire@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Kurt Vonnegut',         'kurt_vonnegut',      'kurt_vonnegut@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Derek Walcott',         'derek_walcott',      'derek_walcott@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Alice Walker',          'alice_walker',      'alice_walker@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('David Foster Wallace',  'david_foster_wallace',                         'david_foster_wallace@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Natasha Walter',        'natasha_walter',     'natasha_walter@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('Joseph Wambaugh',       'joseph_wambaugh',    'joseph_wambaugh@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Jesmyn Ward',           'jesmyn_ward',      'jesmyn_ward@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Alan Warner',           'alan_warner',      'alan_warner@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Sarah Waters',          'sarah_waters',      'sarah_waters@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Evelyn Waugh',          'evelyn_waugh',      'evelyn_waugh@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Fay Weldon',            'fay_weldon',      'fay_weldon@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('HG Wells',              'hg_wells',      'hg_wells@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Irvine Welsh',          'irvine_welsh',      'irvine_welsh@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Edith Wharton',         'edith_wharton',      'edith_wharton@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Edmund White',          'edmund_white',      'edmund_white@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Oscar Wilde',           'oscar_wilde',      'oscar_wilde@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Hugo Williams',         'hugo_williams',      'hugo_williams@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Tennessee Williams',    'tennessee_williams', 'tennessee_williams@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Jacqueline Wilson',     'jacqueline_wilson',  'jacqueline_wilson@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Jeanette Winterson',    'jeanette_winterson', 'jeanette_winterson@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('PG Wodehouse',          'pg_wodehouse',      'pg_wodehouse@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Naomi Wolf',            'naomi_wolf',      'naomi_wolf@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Tom Wolfe',             'tom_wolfe',      'tom_wolfe@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Mary Wollstonecraft',   'mary_wollstonecraft','mary_wollstonecraft@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('Virginia Woolf',        'virginia_woolf',     'virginia_woolf@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),            
+('William Wordsworth',    'william_wordsworth', 'william_wordsworth@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),             
+('John Wyndham',          'john_wyndham',      'john_wyndham@example.heyhey.edu',  'https://webmedia.willamette.edu/system/assets/280bd9bc-76d5-4308-9d6b-addac8f0dfb7/square/pnca_280bd9bc-76d5-4308-9d6b-addac8f0dfb7_square.jpg'),           
+('Diana Wynne Jones',     'diana_wynne_jones',  'diana_wynne_jones',               

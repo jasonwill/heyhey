@@ -1,7 +1,7 @@
 import { gql, useMutation } from '@apollo/client'
 import dayjs from 'dayjs'
 import { Link, useMatch } from '@tanstack/react-location'
-import { useRef }  from 'react'
+import { useRef, useState }  from 'react'
 
 const AddAnnouncementMutation = gql`
 mutation CreateAnAnnouncement($ann: CreateAnnouncementInput!){
@@ -19,8 +19,17 @@ export function AddUserAnnouncement() {
   // debugger
   const [addAnnouncement, { data, loading, error }] = useMutation(AddAnnouncementMutation)
 
-  const titleRef = useRef()
-  const contentRef = useRef()
+  const [announcementInfo, setAnnouncementInfo] = useState({
+    title: "",
+    content: "",
+    updatedAt: "",
+    createdAt: "",
+  });
+
+  const handleChange = (event) => {
+    debugger;
+    setAnnouncementInfo({ ...announcementInfo, [event.target.name]: event.target.value });
+  };
 
   if (loading)
     return 'Submitting...'
@@ -37,9 +46,8 @@ export function AddUserAnnouncement() {
               "ann": {
                 "announcement": {
                   "authorId": userid,
-                  "title": titleRef.current.value,
-                  "content": contentRef.current.value,
-
+                  "title": announcementInfo.title,
+                  "content": announcementInfo.content,
                   "updatedAt": dayjs().format('YYYY-MM-DDTHH:mm:ss'),
                   "createdAt": dayjs().format('YYYY-MM-DDTHH:mm:ss')
                 }
@@ -47,12 +55,24 @@ export function AddUserAnnouncement() {
             }
                 }
           );
-          //input.value = ''
+          setAnnouncementInfo({ title: "", content: "" });
         }}
       >
-        <input type = "text" ref={titleRef} placeholder="title"></input>
-        <input type = "text" ref={contentRef} placeholder="content"></input>
-
+        <input
+          type="text"
+          name="title"
+          placeholder="Title"
+          value={announcementInfo.title}
+          onChange={handleChange}
+        />
+        <input
+          type="text"
+          name="content"
+          placeholder="Content"
+          value={announcementInfo.content}
+          onChange={handleChange}
+        />
+        
         <button type="submit">Add Announcement</button>
       </form>
       <Link to = "/">All Announcements</Link>

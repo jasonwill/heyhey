@@ -1,5 +1,5 @@
 import { useQuery, gql } from '@apollo/client'
-import { UserDetail } from './UserDetail'
+import { UserDetail } from '../components/UserDetail'
 import { Link, useMatch } from '@tanstack/react-location'
 
 export const getUser = gql`
@@ -23,7 +23,7 @@ query GetUserById($id: BigInt!) {
 }
 `
 
-export function UserPage() {
+export function User() {
   
   const { loading, error, data } = useQuery(getUser, {
     variables: {

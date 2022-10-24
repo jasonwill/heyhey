@@ -1,11 +1,11 @@
 import './App.css'
-import { Announcements } from './components/Announcements'
-import { AnnouncementPage } from './components/AnnouncementPage'
-import { AddAnnouncement } from './components/AddAnnouncement'
-import { Users } from './components/Users'
-import { UserPage } from './components/UserPage'
-import { AddUser } from './components/AddUser'
-import { AddUserAnnouncement } from './components/AddUserAnnouncement'
+import { Announcements } from './pages/Announcements'
+import { Announcement } from './pages/Announcement'
+import { AddAnnouncement } from './pages/AddAnnouncement'
+import { Users } from './pages/Users'
+import { User } from './pages/User'
+import { AddUser } from './pages/AddUser'
+import { AddUserAnnouncement } from './pages/AddUserAnnouncement'
 import { Router, Outlet, ReactLocation } from '@tanstack/react-location'
 
 const routes = [
@@ -19,7 +19,7 @@ const routes = [
   },
   {
     path: "/Announcement/:id",
-    element: <AnnouncementPage/>
+    element: <Announcement/>
   },
   {
     path: "/AddAnnouncement",
@@ -31,7 +31,7 @@ const routes = [
   },
   {
     path: "/User/:id",
-    element: <UserPage/>
+    element: <User/>
   },
   {
     path: "/UserAddAnnouncement/:userid",

@@ -1,5 +1,5 @@
 import { useQuery, gql } from '@apollo/client'
-import { Announcement } from './Announcement'
+import { Announcement } from '../components/AnnouncementSummary'
 import { Link } from '@tanstack/react-location'
 
 export const getAllAnnouncements = gql`

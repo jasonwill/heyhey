@@ -1,5 +1,5 @@
 import { useQuery, gql } from '@apollo/client'
-import { User } from './User'
+import { UserSummary } from '../components/UserSummary'
 import { Link } from '@tanstack/react-location'
 
 export const getAllUsers = gql`
@@ -39,7 +39,7 @@ export function Users() {
   endCursor = data.allUsers.pageInfo.endCursor;
 
   const users = data.allUsers.nodes.map(user => (
-    <User key={user.id} user={user} />
+    <UserSummary key={user.id} user={user} />
   ))
   return (
   <div>

@@ -1,7 +1,7 @@
 import dayjs from 'dayjs'
 import relativeTime from 'dayjs/plugin/relativeTime'
 import localizedFormat from 'dayjs/plugin/localizedFormat'
-import {Announcement} from './Announcement'
+import {Announcement} from './AnnouncementSummary'
 
 dayjs.extend(relativeTime)
 dayjs.extend(localizedFormat)

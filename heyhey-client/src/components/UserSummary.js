@@ -6,7 +6,7 @@ import {Link} from '@tanstack/react-location'
 dayjs.extend(relativeTime)
 dayjs.extend(localizedFormat)
 
-export function User({ id, user }) {
+export function UserSummary({ id, user }) {
   return <>
     <Link to={`/User/${user.id}`}>{user.username}</Link>
     <p>{user.id}</p>

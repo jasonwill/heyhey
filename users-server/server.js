@@ -33,7 +33,7 @@ app.use(
     }
   )
 )
-const port = process.env.PORT || 5002
+const port = process.env.PORT || 4001
 app.listen(port)
 console.log(`🚀 Server ready at http://[host]:${port}/graphql`)
 console.log(`🚀 Graphiql UI ready at http://[host]:${port}/graphiql`)

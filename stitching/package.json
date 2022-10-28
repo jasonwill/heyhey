@@ -6,7 +6,6 @@
     "scripts": {
       "start-users": "nodemon --watch ../users-server/index.js",
       "start-events": "nodemon --watch ../events-server/index.js",
-      "start-gateway": "nodemon index.js",
       "start": "concurrently \"yarn:start-*\""
     },
     "dependencies": {

@@ -1,5 +1,4 @@
-
-CREATE TABLE announcements.users (
+CREATE TABLE announcements.announcers (
 	id bigserial NOT NULL,
 	username varchar NULL,
 	uuid varchar NULL,
@@ -8,7 +7,6 @@ CREATE TABLE announcements.users (
 	CONSTRAINT users_pkey PRIMARY KEY (id)
 );
 
-commit;
 
 CREATE TABLE announcements.announcements (
 	id bigserial NOT NULL,
@@ -20,4 +18,8 @@ CREATE TABLE announcements.announcements (
 	CONSTRAINT announcements_pkey PRIMARY KEY (id)
 );
 CREATE INDEX index_announcements_on_author_id ON announcements.announcements USING btree (author_id);
+
+-- announcements.announcements foreign keys
+
+ALTER TABLE announcements.announcements ADD CONSTRAINT announcements_fk FOREIGN KEY (author_id) REFERENCES announcements.announcers(id);
 

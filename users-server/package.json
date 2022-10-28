@@ -17,6 +17,7 @@
     "express": "^4.18.1",
     "pg": "^8.8.0",
     "postgraphile": "^4.12.11",
-    "postgraphile-plugin-connection-filter": "^2.3.0"
+    "postgraphile-plugin-connection-filter": "^2.3.0",
+    "nodemon": "^2.0.6"
   }
 }

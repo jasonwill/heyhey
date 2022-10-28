@@ -2,6 +2,7 @@ const pg = require('pg')
 const express = require('express')
 const { postgraphile } = require('postgraphile')
 const ConnectionFilterPlugin = require("postgraphile-plugin-connection-filter");
+const { default: FederationPlugin } = require("@graphile/federation");
 
 require('dotenv').config()
 const app = express()
@@ -20,7 +21,7 @@ app.use(
     pgPool,
     process.env.SCHEMA_NAMES ? process.env.SCHEMA_NAMES.split(',') : ['events'],
     {
-      appendPlugins: [ConnectionFilterPlugin],
+      appendPlugins: [ConnectionFilterPlugin, FederationPlugin],
       watchPg: true,
       graphiql: true,
       enhanceGraphiql: true,

@@ -11,7 +11,6 @@ module.exports = function makeRemoteExecutor(url) {
     const fetchResult = await fetch(url, {
       method: 'POST',
       headers: {
-        'Authorization': context.authHeader,
         'Content-Type': 'application/json',
       },
       body: JSON.stringify({ query, variables }),

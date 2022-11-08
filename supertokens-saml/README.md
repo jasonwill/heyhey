@@ -165,7 +165,7 @@ After step 3 run `npm start`...
 
 Which does not work because index.tsx is expecting new style react (v18+ and not old react code in App.tsx and config.tsx).
 
-There are a few other issues, see the commited code (November 8, 2022 18:58 UTC) for working code.
+There are a few other issues, see the commited code (November 8, 2022 18:58 UTC, https://github.com/jasonwill/heyhey/commit/d9b045abdc72e3b50030993b901dc1ba88c62fc5) for working code.
 
 
 ## TODOs

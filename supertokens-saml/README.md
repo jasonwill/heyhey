@@ -159,7 +159,7 @@ function App() {
 export default App;
 ```
 
-*Note: SuperTokensConfig is not found in the original App.js `import { SuperTokensConfig } from "./config";` . That is because the initial code does not use class components, but the generated code does.  This should be fixed once the "hello world" part is up and running.
+*Note: SuperTokensConfig is not found in the original App.js `import { SuperTokensConfig } from "./config";` . That is because the initial code does not use class components, but the generated code does.  This should be fixed once the "hello world" part is up and running.*
 
 After step 3 run `npm start`...
 

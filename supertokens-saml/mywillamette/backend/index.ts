@@ -35,4 +35,8 @@ app.get("/sessioninfo", verifySession(), async (req: SessionRequest, res) => {
 // returns 401 to the client.
 app.use(errorHandler());
 
-app.listen(3001, () => console.log(`API Server listening on port 3001`));
+app.use((err: any, req: express.Request, res: express.Response, next: express.NextFunction) => {
+    // Your error handler logic
+});
+
+app.listen(8080, () => console.log(`API Server listening on port 8080`));

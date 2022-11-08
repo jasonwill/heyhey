@@ -6,12 +6,15 @@ import Dashboard from "supertokens-node/recipe/dashboard";
 export const SuperTokensConfig: TypeInput = {
     supertokens: {
         // this is the location of the SuperTokens core.
-        connectionURI: "https://try.supertokens.com",
+        connectionURI: "https://e36eac015f8a11edb6b30fbcd81a03c2-us-east-1.aws.supertokens.io:3567",
+        apiKey: "9HWU9XFmHLEXZ9ZbNKaCPWVN7vHVcz",
     },
     appInfo: {
-        appName: "SuperTokens Demo App",
-        apiDomain: "http://localhost:3001",
+        appName: "mywillamette_samls",
+        apiDomain: "http://localhost:8080",
         websiteDomain: "http://localhost:3000",
+        apiBasePath: "/auth",
+        websiteBasePath: "/auth"
     },
     // recipeList contains all the modules that you want to
     // use from SuperTokens. See the full list here: https://supertokens.com/docs/guides
@@ -37,11 +40,15 @@ export const SuperTokensConfig: TypeInput = {
                         teamId: "YWQCXGJRJL",
                     },
                 }),
+                // Facebook({
+                //     clientSecret: "FACEBOOK_CLIENT_SECRET",
+                //     clientId: "FACEBOOK_CLIENT_ID"
+                // })
             ],
         }),
         Session.init(),
         Dashboard.init({
-            apiKey: "supertokens_is_awesome",
+            apiKey: "9HWU9XFmHLEXZ9ZbNKaCPWVN7vHVcz",
         }),
     ],
 };

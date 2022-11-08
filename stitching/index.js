@@ -31,14 +31,14 @@ async function makeGatewaySchema() {
           Event: {
             fieldName: 'eventByEventId',
             selectionSet: '{ id }',
-            key: ({ id }) => id,
+            // key: ({ id }) => id,
             args: originalObject => ({ id: originalObject.id }),
           },
           Announcement: {
             //Announcement.eventByEventId
             fieldName: 'announcementsByEventId',
             selectionSet: '{ id }',
-            key: ({ id }) => id,
+            // key: ({ id }) => id,
             args: originalObject => ({ id: originalObject.id }),
           }
         }

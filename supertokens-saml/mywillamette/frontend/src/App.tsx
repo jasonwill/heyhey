@@ -16,7 +16,6 @@ function App() {
                         <Routes>
                             {/* This shows the login UI on "/auth" route */}
                             {getSuperTokensRoutesForReactRouterDom(require("react-router-dom"))}
-
                             <Route
                                 path="/"
                                 element={
@@ -37,41 +36,3 @@ function App() {
 }
 
 export default App;
-
-/*
-import "./App.css";
-import SuperTokens, { SuperTokensWrapper, getSuperTokensRoutesForReactRouterDom } from "supertokens-auth-react";
-import { SessionAuth } from "supertokens-auth-react/recipe/session";
-import { Routes, BrowserRouter as Router, Route } from "react-router-dom";
-import Home from "./Home";
-import { SuperTokensConfig } from "./config";
-
-SuperTokens.init(SuperTokensConfig);
-
-function App() {
-    return (
-        <SuperTokensWrapper>
-            <div className="App">
-                <Router>
-                    <div className="fill">
-                        <Routes>
-                            {getSuperTokensRoutesForReactRouterDom(require("react-router-dom"))}
-
-                            <Route
-                                path="/"
-                                element={
-                                    <SessionAuth>
-                                        <Home />
-                                    </SessionAuth>
-                                }
-                            />
-                        </Routes>
-                    </div>
-                </Router>
-            </div>
-        </SuperTokensWrapper>
-    );
-}
-
-export default App;
-*/

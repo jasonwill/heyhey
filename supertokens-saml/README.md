@@ -168,3 +168,25 @@ Which does not work because index.tsx is expecting new style react (v18+ and not
 There are a few other issues, see the commited code (November 8, 2022 18:58 UTC) for working code.
 
 
+## TODOs
+
+- [ ] Change the GitHub, Facebook, and Apple information to use our own, keys and secrets, in mywillamette/backend/config.ts.  DO NOT commit new keys and secrets
+
+- [ ] Change the router to use the tanstack router
+
+- [ ] Connect to postgraphile, see Graphile Discord:
+
+```
+ravinder.singh — 04/25/2022
+Hi, is there any guidance on setting up SSO auth Auth0 and Azure Active Directory with PostGraphile. Any help highly appreciated. Thanks
+RedShift — 04/25/2022
+@ravinder.singh just do it like you would with express.js
+JeffJankowski — 04/25/2022
+Yeah we are actually using this stack. You're going to want to disable the JWT functionality in postgraphile itself. Use an express server with postgraphile in library mode. Then just follow the auth0 documentation to use express-jwt and jwks-rsa as a middleware to verify the token.
+For AAD, just setup an auth0 connector using the auth0 web portal
+Benjie 🔮 — 04/25/2022
+In addition to the advice above, there's also https://www.graphile.org/postgraphile/jwk-verification/ but it might be out of date 🤷‍♂️
+PostGraphile | PostGraphile JWT/JWK Verification Quickstart
+Utilities to build powerful and performant GraphQL APIs
+```
+

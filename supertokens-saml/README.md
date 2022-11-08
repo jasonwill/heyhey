@@ -1,10 +1,10 @@
-#Description
+# Description
 
 The mywillamette directory contains a sample application using the recipe here:
 
 https://supertokens.com/docs/thirdpartyemailpassword/introduction
 
-## Notes
+# Notes
 
 The AppInfo documentation here:  https://supertokens.com/docs/thirdpartyemailpassword/appinfo
 

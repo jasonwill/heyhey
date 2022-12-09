@@ -1,7 +1,11 @@
 const pg = require('pg')
 const express = require('express')
 const { postgraphile } = require('postgraphile')
-const ConnectionFilterPlugin = require("postgraphile-plugin-connection-filter");
+const ConnectionFilterPlugin = require("postgraphile-plugin-connection-filter")
+const PassportLoginPlugin = require("./PassportLoginPlugin")
+const session = require('express-session')
+const passport = require('passport')
+var GoogleStrategy = require( 'passport-google-oauth2' ).Strategy
 
 require('dotenv').config()
 const app = express()
@@ -20,7 +24,7 @@ app.use(
     pgPool,
     process.env.SCHEMA_NAMES ? process.env.SCHEMA_NAMES.split(',') : ['announcements'],
     {
-      appendPlugins: [ConnectionFilterPlugin],
+      appendPlugins: [ConnectionFilterPlugin, PassportLoginPlugin],
       watchPg: true,
       graphiql: true,
       enhanceGraphiql: true,

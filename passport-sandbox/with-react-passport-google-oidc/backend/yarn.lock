@@ -1294,6 +1294,13 @@
   dependencies:
     "passport-oauth2" "1.x.x"
 
+"passport-google-oidc@^0.1.0":
+  "integrity" "sha512-/TtFXaWvmubm5kXNoJMyzBfxhnZ0lnBPA6w6rmQMP9klmHZf0ArE8IrIEt3yAHoiDzGx4eTO7YasKQFbPsNtVA=="
+  "resolved" "https://registry.npmjs.org/passport-google-oidc/-/passport-google-oidc-0.1.0.tgz"
+  "version" "0.1.0"
+  dependencies:
+    "passport-openidconnect" "0.1.x"
+
 "passport-oauth2@1.x.x":
   "integrity" "sha512-ZbV43Hq9d/SBSYQ22GOiglFsjsD1YY/qdiptA+8ej+9C1dL1TVB+mBE5kDH/D4AJo50+2i8f4bx0vg4/yDDZCQ=="
   "resolved" "https://registry.npmjs.org/passport-oauth2/-/passport-oauth2-1.6.1.tgz"
@@ -1304,6 +1311,14 @@
     "passport-strategy" "1.x.x"
     "uid2" "0.0.x"
     "utils-merge" "1.x.x"
+
+"passport-openidconnect@0.1.x":
+  "integrity" "sha512-r0QJiWEzwCg2MeCIXVP5G6YxVRqnEsZ2HpgKRthZ9AiQHJrgGUytXpsdcGF9BRwd3yMrEesb/uG/Yxb86rrY0g=="
+  "resolved" "https://registry.npmjs.org/passport-openidconnect/-/passport-openidconnect-0.1.1.tgz"
+  "version" "0.1.1"
+  dependencies:
+    "oauth" "0.9.x"
+    "passport-strategy" "1.x.x"
 
 "passport-strategy@1.x.x":
   "integrity" "sha1-tVOaqPwiWj0a0XlHbd8ja0QPUuQ= sha512-CB97UUvDKJde2V0KDWWB3lyf6PC3FaZP7YxZ2G8OAtn9p4HI9j9JLP9qjOGZFvyl8uwNT8qM+hGnz/n16NI7oA=="

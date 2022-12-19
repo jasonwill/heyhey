@@ -1,21 +1,23 @@
-import { useLocation } from "react-router";
-import { posts } from "../data";
+import Google from "../img/google.png";
 
-const Post = () => {
-  const location = useLocation();
-  const path = location.pathname.split("/")[2];
+const Login = () => {
+  const google = () => {
+    window.open("http://localhost:5000/auth/google", "_self");
+  };
 
-  const post = posts.find((p) => p.id.toString() === path);
-
-  console.log(location);
   return (
-    <div className="post">
-      <img src={post.img} alt="" className="postImg" />
-      <h1 className="postTitle">{post.title}</h1>
-      <p className="postDesc">{post.desc}</p>
-      <p className="postLongDesc">{post.longDesc}</p>
+    <div className="login">
+      <h1 className="loginTitle">Choose a Login Method</h1>
+      <div className="wrapper">
+        <div className="left">
+          <div className="loginButton google" onClick={google}>
+            <img src={Google} alt="" className="icon" />
+            Google
+          </div>
+        </div>
+      </div>
     </div>
   );
 };
 
-export default Post;
+export default Login;

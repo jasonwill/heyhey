@@ -63,7 +63,21 @@ passport.deserializeUser(function(user, cb) {
   });
 });
 //end see https://www.passportjs.org/tutorials/google/session/
+///////////
 
+//From with-react-passport-google-oidc
+router.get("/login/success", (req, res) => {
+  console.log('---------------login/success')
+  if (req.user) {
+    res.status(200).json({
+      success: true,
+      message: "successfull",
+      user: req.user,
+      //   cookies: req.cookies
+    });
+  }
+});
+////////////
 router.get('/login', function(req, res, next) {
   res.render('login'); //render an ejs page - which when the login button is clicked will redirect to /login/federated/google 
 });

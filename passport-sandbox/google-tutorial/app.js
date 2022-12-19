@@ -2,6 +2,7 @@ require('dotenv').config();
 
 var createError = require('http-errors');
 var express = require('express');
+const cors = require("cors");
 var path = require('path');
 var cookieParser = require('cookie-parser');
 var logger = require('morgan');
@@ -34,6 +35,13 @@ app.use(session({
   saveUninitialized: false,
   store: new SQLiteStore({ db: 'sessions.db', dir: './var/db' })
 }));
+app.use(
+  cors({
+    origin: "http://localhost:3000",
+    methods: "GET,POST,PUT,DELETE",
+    credentials: true,
+  })
+);
 // see https://www.passportjs.org/tutorials/google/session
 app.use(passport.authenticate('session'));
 // end see https://www.passportjs.org/tutorials/google/session

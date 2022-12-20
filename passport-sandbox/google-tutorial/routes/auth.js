@@ -5,6 +5,8 @@ var db = require('../db');
 
 var router = express.Router();
 
+const CLIENT_URL = 'http://localhost:3000'
+
 passport.use(new GoogleStrategy({
   clientID: process.env['GOOGLE_CLIENT_ID'],
   clientSecret: process.env['GOOGLE_CLIENT_SECRET'],
@@ -71,12 +73,14 @@ router.get("/login/success", (req, res) => {
   if (req.user) {
     res.status(200).json({
       success: true,
-      message: "successfull",
+      message: "successful",
       user: req.user,
       //   cookies: req.cookies
     });
   }
 });
+
+
 ////////////
 router.get('/login', function(req, res, next) {
   res.render('login'); //render an ejs page - which when the login button is clicked will redirect to /login/federated/google 
@@ -89,18 +93,34 @@ router.get('/login/federated/google', passport.authenticate('google'));
 //Google then redirects to the path specified in https://console.cloud.google.com/apis/credentials/oauthclient/
 // e.g. /oauth2/redirect/google
 router.get('/oauth2/redirect/google', passport.authenticate('google', {
-  successRedirect: '/',
+  successRedirect: CLIENT_URL,
   failureRedirect: '/login'
-}));
+})
+);
+
+router.get("/logout", (req, res) => {
+  req.logout();
+  res.redirect(CLIENT_URL);
+});
+
+router.get("/google", passport.authenticate("google", { scope: ["profile"] }));
+
+router.get(
+  "/google/callback",
+  passport.authenticate("google", {
+    successRedirect: CLIENT_URL,
+    failureRedirect: "/login/failed",
+  })
+);
 
 // Logging Out
 //see https://www.passportjs.org/tutorials/google/logout/
-router.post('/logout', function(req, res, next) {
-  req.logout(function(err) {
-    if (err) { return next(err); }
-    res.redirect('/');
-  });
-});
+// router.post('/logout', function(req, res, next) {
+//   req.logout(function(err) {
+//     if (err) { return next(err); }
+//     res.redirect('/');
+//   });
+// });
 //end see https://www.passportjs.org/tutorials/google/logout/
 
 //END - This code would be in the react application

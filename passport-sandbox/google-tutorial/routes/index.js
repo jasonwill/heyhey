@@ -26,7 +26,10 @@ var router = express.Router();
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
-  if (!req.user) { return res.render('home'); }
+  console.log("router.get('/'")
+  if (!req.user) { 
+    return res.render('home'); 
+  }
   next();
 }, fetchTodos, function(req, res, next) {
   res.locals.filter = null;
@@ -34,54 +37,82 @@ router.get('/', function(req, res, next) {
 });
 
 router.get('/active', fetchTodos, function(req, res, next) {
-  res.locals.todos = res.locals.todos.filter(function(todo) { return !todo.completed; });
+  console.log("router.get('/active'")
+  res.locals.todos = res.locals.todos.filter(function(todo) { 
+    return !todo.completed; 
+  });
   res.locals.filter = 'active';
   res.render('index', { user: req.user });
 });
 
 router.get('/completed', fetchTodos, function(req, res, next) {
-  res.locals.todos = res.locals.todos.filter(function(todo) { return todo.completed; });
+  console.log("router.get('/completed'");
+  res.locals.todos = res.locals.todos.filter(function(todo) { return 
+    todo.completed; 
+  });
   res.locals.filter = 'completed';
   res.render('index', { user: req.user });
 });
 
 router.post('/', function(req, res, next) {
+  console.log("router.post('/'");
   req.body.title = req.body.title.trim();
   next();
 }, function(req, res, next) {
-  if (req.body.title !== '') { return next(); }
+  if (req.body.title !== '') {
+    console.log("router.post('/'", "return next()"); 
+    return next(); 
+  }
   return res.redirect('/' + (req.body.filter || ''));
 }, function(req, res, next) {
+  console.log("router.post('/'", "db insert"); 
   db.run('INSERT INTO todos (owner_id, title, completed) VALUES (?, ?, ?)', [
     req.user.id,
     req.body.title,
     req.body.completed == true ? 1 : null
   ], function(err) {
-    if (err) { return next(err); }
+    if (err) { 
+      console.log("router.post('/'", "err");
+      return next(err); 
+    }
+    console.log("router.post('/'", "redirect");
     return res.redirect('/' + (req.body.filter || ''));
   });
 });
 
 router.post('/:id(\\d+)', function(req, res, next) {
+  console.log("router.post('/:id(\\d+)'", "next 0");
   req.body.title = req.body.title.trim();
   next();
 }, function(req, res, next) {
-  if (req.body.title !== '') { return next(); }
+  console.log("router.post('/:id(\\d+)'", "next 1")
+  if (req.body.title !== '') {
+    console.log("router.post('/:id(\\d+)'", "req.body.title !== ''");
+    return next(); 
+  }
+  console.log("router.post('/:id(\\d+)'", "db.run('DELETE FROM todos WHERE id = ? AND owner_id = ?'")
   db.run('DELETE FROM todos WHERE id = ? AND owner_id = ?', [
     req.params.id,
     req.user.id
   ], function(err) {
-    if (err) { return next(err); }
+    if (err) { 
+      console.log("router.post('/:id(\\d+)'", "err")
+      return next(err); 
+    }
+    console.log("router.post('/:id(\\d+)'", "res.redirect('/' + (req.body.filter || '')")
     return res.redirect('/' + (req.body.filter || ''));
   });
 }, function(req, res, next) {
+  console.log("router.post('/:id(\\d+)'", "next 2")
   db.run('UPDATE todos SET title = ?, completed = ? WHERE id = ? AND owner_id = ?', [
     req.body.title,
     req.body.completed !== undefined ? 1 : null,
     req.params.id,
     req.user.id
   ], function(err) {
-    if (err) { return next(err); }
+    if (err) { 
+      return next(err); 
+    }
     return res.redirect('/' + (req.body.filter || ''));
   });
 });
@@ -91,7 +122,9 @@ router.post('/:id(\\d+)/delete', function(req, res, next) {
     req.params.id,
     req.user.id
   ], function(err) {
-    if (err) { return next(err); }
+    if (err) { 
+      return next(err); 
+    }
     return res.redirect('/' + (req.body.filter || ''));
   });
 });
@@ -101,7 +134,9 @@ router.post('/toggle-all', function(req, res, next) {
     req.body.completed !== undefined ? 1 : null,
     req.user.id
   ], function(err) {
-    if (err) { return next(err); }
+    if (err) { 
+      return next(err); 
+    }
     return res.redirect('/' + (req.body.filter || ''));
   });
 });
@@ -111,7 +146,9 @@ router.post('/clear-completed', function(req, res, next) {
     req.user.id,
     1
   ], function(err) {
-    if (err) { return next(err); }
+    if (err) { 
+      return next(err); 
+    }
     return res.redirect('/' + (req.body.filter || ''));
   });
 });

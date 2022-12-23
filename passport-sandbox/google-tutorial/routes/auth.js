@@ -88,14 +88,21 @@ router.get('/login', function(req, res, next) {
 
 //START - This code would be in the react application
 //React would route to here, /login/federated/google
-router.get('/login/federated/google', passport.authenticate('google'));
+router.get('/login/federated/google', 
+  passport.authenticate('google')
+);
 
 //Google then redirects to the path specified in https://console.cloud.google.com/apis/credentials/oauthclient/
 // e.g. /oauth2/redirect/google
-router.get('/oauth2/redirect/google', passport.authenticate('google', {
-  successRedirect: CLIENT_URL,
-  failureRedirect: '/login'
-})
+router.get('/oauth2/redirect/google', 
+  passport.authenticate('google', {
+    successRedirect: CLIENT_URL,
+    failureRedirect: '/login',  
+    }
+  ),
+  (b) => {
+    console.log('------------/oauth2/redirect/google------------')
+  }
 );
 
 router.get("/logout", (req, res) => {

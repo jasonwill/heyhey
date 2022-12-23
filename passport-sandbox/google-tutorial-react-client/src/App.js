@@ -4,14 +4,17 @@ import Home from "./pages/Home";
 import Post from "./pages/Post";
 import Login from "./pages/Login";
 import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
+// import { useState } from "react";
 import { useEffect, useState } from "react";
 
 const App = () => {
   const [user, setUser] = useState(null);
 
   useEffect(() => {
+    let ignore = false;
+    
     const getUser = () => {
-      fetch("http://localhost:5000/auth/login/success", {
+      fetch("http://localhost:5000/login/success", {
         method: "GET",
         credentials: "include",
         headers: {
@@ -21,20 +24,33 @@ const App = () => {
         },
       })
         .then((response) => {
-          if (response.status === 200) return response.json();
-          throw new Error("authentication has been failed!");
+          if (response.status === 200) {
+            return response.json();
+          }
+          console.log('------------ERROR-----------THROW-----------')
+          throw new Error("authentication has been failed!");// how is this handled, check fetch api ref
         })
         .then((resObject) => {
           setUser(resObject.user);
         })
         .catch((err) => {
+          console.log('------------ERROR-----------CAUGHT-----------')
           console.log(err);
         });
     };
-    getUser();
+    if (!ignore)
+      getUser();
+    return () => {
+      ignore = true;
+    };
+  
   }, []);
-
+  
   return (
+  //   <button onClick={checkUser}>
+  //   Check For User
+  // </button>
+
     <BrowserRouter>
       <div>
         <Navbar user={user} />

@@ -106,8 +106,10 @@ router.get('/oauth2/redirect/google',
 );
 
 router.get("/logout", (req, res) => {
-  req.logout();
-  res.redirect(CLIENT_URL);
+  req.logout(function(err) {
+     if (err) { return next(err); }
+       res.redirect(CLIENT_URL);
+  });
 });
 
 router.get("/google", passport.authenticate("google", { scope: ["profile"] }));

@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 const Navbar = ({ user }) => {
   const logout = () => {
-    window.open("http://localhost:5000/auth/logout", "_self");//TODO get port from env
+    window.open("http://localhost:5000/logout", "_self");//TODO get port from env
   };
   return (
     <div className="navbar">

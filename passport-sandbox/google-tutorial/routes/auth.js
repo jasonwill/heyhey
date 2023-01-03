@@ -13,10 +13,6 @@ passport.use(new GoogleStrategy({
   callbackURL: '/oauth2/redirect/google',
   scope: [ 'profile' ]
 }, function verify(issuer, profile, cb) {
-   console.log('----------issuer-------', issuer)
-   console.log('----------profile-------', profile)
-  //console.log('----------cb-------', cb,toString()) // this log statement causes crash for some reason, so only enable if needed
-  //debugger;
   db.get('SELECT * FROM federated_credentials WHERE provider = ? AND subject = ?', [
     issuer,
     profile.id
@@ -64,46 +60,37 @@ passport.deserializeUser(function(user, cb) {
     return cb(null, user);
   });
 });
-//end see https://www.passportjs.org/tutorials/google/session/
-///////////
 
 //From with-react-passport-google-oidc
 router.get("/login/success", (req, res) => {
-  console.log('---------------login/success')
   if (req.user) {
     res.status(200).json({
       success: true,
       message: "successful",
       user: req.user,
-      //   cookies: req.cookies
+      cookies: req.cookies,
     });
   }
 });
 
 
-////////////
+//TODO move to react application
 router.get('/login', function(req, res, next) {
   res.render('login'); //render an ejs page - which when the login button is clicked will redirect to /login/federated/google 
 });
 
-//START - This code would be in the react application
-//React would route to here, /login/federated/google
 router.get('/login/federated/google', 
   passport.authenticate('google')
 );
 
-//Google then redirects to the path specified in https://console.cloud.google.com/apis/credentials/oauthclient/
-// e.g. /oauth2/redirect/google
 router.get('/oauth2/redirect/google', 
   passport.authenticate('google', {
     successRedirect: CLIENT_URL,
-    failureRedirect: '/login',  
+    failureRedirect: '/login',
     }
   ),
-  (b) => {
-    console.log('------------/oauth2/redirect/google------------')
-  }
 );
+
 
 router.get("/logout", (req, res) => {
   req.logout(function(err) {
@@ -122,17 +109,12 @@ router.get(
   })
 );
 
-// Logging Out
-//see https://www.passportjs.org/tutorials/google/logout/
-// router.post('/logout', function(req, res, next) {
-//   req.logout(function(err) {
-//     if (err) { return next(err); }
-//     res.redirect('/');
-//   });
-// });
-//end see https://www.passportjs.org/tutorials/google/logout/
-
-//END - This code would be in the react application
+router.post('/logout', function(req, res, next) {
+  req.logout(function(err) {
+    if (err) { return next(err); }
+    res.redirect('/');
+  });
+});
 
 
 module.exports = router;

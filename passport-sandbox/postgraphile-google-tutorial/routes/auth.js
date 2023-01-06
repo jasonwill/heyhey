@@ -73,15 +73,30 @@ router.get("/login/success", (req, res) => {
   }
 });
 
-
-//TODO move to react application
-router.get('/login', function(req, res, next) {
-  res.render('login'); //render an ejs page - which when the login button is clicked will redirect to /login/federated/google 
-});
-
+//DEBUGGING CODE, from here https://dmitryrogozhny.com/blog/easy-way-to-debug-passport-authentication-in-express
 router.get('/login/federated/google', 
-  passport.authenticate('google')
+  function (req, res, next) {
+    console.log("GET --------/login/federated/google")
+    passport.authenticate('google', function (error, user, info) {
+      console.log(error);
+      console.log(user);
+      console.log(info);
+
+      if (error) {
+        res.status(401).send(error);
+      } else if (!user) {
+        res.status(401).send(info);
+      } else {
+        next();
+      }
+      res.status(401).send(info);
+    })(req, res);
+  },
 );
+
+// router.get('/login/federated/google', 
+//   passport.authenticate('google')
+// );
 
 router.get('/oauth2/redirect/google', 
   passport.authenticate('google', {

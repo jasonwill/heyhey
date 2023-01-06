@@ -1,50 +1,22 @@
 {
-  "name": "todos-express-starter",
-  "version": "0.0.0",
-  "private": true,
-  "description": "Starter todo app using Express, Passport, and SQLite for sign in.",
-  "keywords": [
-    "example",
-    "express",
-    "passport",
-    "sqlite"
-  ],
-  "author": {
-    "name": "Jared Hanson",
-    "email": "jaredhanson@gmail.com",
-    "url": "https://www.jaredhanson.me/"
-  },
-  "homepage": "https://github.com/passport/todos-express-starter",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/passport/todos-express-starter.git"
-  },
-  "bugs": {
-    "url": "https://github.com/passport/todos-express-starter/issues"
-  },
-  "funding": {
-    "type": "github",
-    "url": "https://github.com/sponsors/jaredhanson"
-  },
-  "license": "Unlicense",
-  "scripts": {
-    "start": "node ./bin/www"
-  },
-  "dependencies": {
-    "connect-sqlite3": "^0.9.13",
-    "cookie-parser": "~1.4.4",
-    "cors": "^2.8.5",
-    "debug": "~2.6.9",
-    "dotenv": "^8.6.0",
-    "ejs": "~2.6.1",
-    "express": "~4.16.1",
-    "express-session": "^1.17.3",
-    "http-errors": "~1.6.3",
-    "mkdirp": "^1.0.4",
-    "morgan": "~1.9.1",
-    "passport": "^0.6.0",
-    "passport-google-oidc": "^0.1.0",
-    "pluralize": "^8.0.0",
-    "sqlite3": "^5.0.2"
+    "name": "helloreact-server",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "cors": "^2.8.5",
+      "dotenv": "^16.0.2",
+      "express": "^4.18.2",
+      "express-session": "^1.17.3",
+      "passport": "^0.6.0",
+      "pg": "^8.8.0",
+      "postgraphile": "^4.12.12",
+      "postgraphile-plugin-connection-filter": "^2.3.0"
+    }
   }
-}
+  

@@ -1,4 +1,10 @@
-# todos-express-starter
+# Postgraphile-google-tutoria
+
+For Passport with Passport-Google-OIDC
+
+Important Note: for Node 18 and greater make sure to use 127.0.0.1 instead of "localhost" for connection string
+
+See the following:
 
 This is a starter kit for building a todo app with sign in functionality using
 [Express](https://expressjs.com/), [Passport](https://www.passportjs.org/) and

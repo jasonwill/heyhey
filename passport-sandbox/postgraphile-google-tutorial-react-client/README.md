@@ -1,0 +1,1 @@
+Based on the full client/server app found here: https://github.com/safak/youtube/tree/react-social-login

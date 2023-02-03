@@ -51,7 +51,9 @@ export function Announcements() {
   return (
   <div>
     <div>End Cursor: {endCursor}</div>
+    <div className='announcements'>
     {announcements}
+    </div>
     <Link to = "AddAnnouncement">Add Announcement</Link>
   </div>
   )

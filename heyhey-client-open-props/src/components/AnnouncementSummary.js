@@ -7,8 +7,8 @@ dayjs.extend(relativeTime)
 dayjs.extend(localizedFormat)
 
 export function Announcement({ id, announcement }) {
-  return <>
-    <Link to={`/Announcement/${announcement.id}`}>{announcement.title}</Link>
+  return <div className='announcement-summary'>
+    <Link to={`/Announcement/${announcement.id}`}><h5>{announcement.title}</h5></Link>
     <p>{announcement.id}</p>
     <p>{announcement.content}</p>
     <div>
@@ -16,5 +16,5 @@ export function Announcement({ id, announcement }) {
       <p>{`Updated ${dayjs(announcement.updatedAt).fromNow()}, ${dayjs(announcement.updatedAt).format('dddd, MMMM D, YYYY h:mm:ss A')}`}</p>
     </div>
     <br />
-  </>
+  </div>
 }

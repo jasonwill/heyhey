@@ -7,6 +7,7 @@ import { User } from './pages/User'
 import { AddUser } from './pages/AddUser'
 import { AddUserAnnouncement } from './pages/AddUserAnnouncement'
 import { Router, Outlet, ReactLocation } from '@tanstack/react-location'
+import { MainNavigation } from './components/MainNavigation'
 
 const routes = [
   {
@@ -49,6 +50,7 @@ const location = new ReactLocation()
 export default function App() {
   return (
     <Router routes = { routes } location = {location}>
+      <MainNavigation />
       <div>
         <Outlet />
       </div>

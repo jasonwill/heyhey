@@ -32,11 +32,20 @@ const routes = [
   },
   {
     path: "/User/:id",
-    element: <User/>
-  },
-  {
-    path: "/UserAddAnnouncement/:userid",
-    element: <AddUserAnnouncement/>
+    children: [
+      {
+        path: '/',
+        element: <User/>
+      },
+      {
+        path: 'new',
+        element: `This would render at the '/invoices/new' path`,
+      },
+      {
+        path: "AddAnnouncement",
+        element: <AddUserAnnouncement/>
+      },
+    ],
   },
   {
     path: "/AddUser",
@@ -49,7 +58,7 @@ const location = new ReactLocation()
 
 export default function App() {
   return (
-    <Router routes = { routes } location = {location}>
+    <Router children = { null } routes = { routes } location = {location}>
       <MainNavigation />
       <div>
         <Outlet />

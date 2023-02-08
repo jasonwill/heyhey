@@ -37,6 +37,10 @@ body {
   display: grid;
 }
 
+html {
+  color-scheme: dark light;
+}
+
 .announcements {
   display: flex;
   flex-flow: row wrap;

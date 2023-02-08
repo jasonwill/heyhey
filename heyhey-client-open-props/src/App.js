@@ -38,10 +38,6 @@ const routes = [
         element: <User/>
       },
       {
-        path: 'new',
-        element: `This would render at the '/invoices/new' path`,
-      },
-      {
         path: "AddAnnouncement",
         element: <AddUserAnnouncement/>
       },

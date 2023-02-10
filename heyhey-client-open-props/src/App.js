@@ -54,7 +54,7 @@ const location = new ReactLocation()
 
 export default function App() {
   return (
-    <Router children = { null } routes = { routes } location = {location}>
+    <Router role = 'foo' children = { null } routes = { routes } location = {location}>
       <MainNavigation />
       <div>
         <Outlet />

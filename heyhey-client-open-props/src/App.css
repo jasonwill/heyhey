@@ -37,8 +37,8 @@ body {
   display: grid;
 }
 
-html {
-  color-scheme: dark light;
+:root {
+    color-scheme: dark light;
 }
 
 .announcements {

@@ -49,7 +49,7 @@ export function Announcements() {
     <Announcement key={announcement.id} announcement={announcement} />
   ))
   return (
-  <div>
+  <div style={{colorScheme: "light"}}>
     <div>End Cursor: {endCursor}</div>
     <div className='announcements'>
     {announcements}

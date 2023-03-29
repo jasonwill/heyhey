@@ -38,5 +38,5 @@ CREATE INDEX index_comments_on_announcement_id ON announcements.comments USING b
 
 -- announcements.announcements foreign keys
 
-ALTER TABLE announcements.announcements ADD CONSTRAINT comments_fk FOREIGN KEY (announcement_id) REFERENCES announcements.announcement(id);
+ALTER TABLE announcements.announcements ADD CONSTRAINT comments_fk FOREIGN KEY (announcement_id) REFERENCES announcements.announcements(id);
 

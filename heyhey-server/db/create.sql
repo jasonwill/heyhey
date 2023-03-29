@@ -36,7 +36,7 @@ CREATE TABLE announcements.comments (
 
 CREATE INDEX index_comments_on_announcement_id ON announcements.comments USING btree (announcement_id);
 
--- announcements.announcements foreign keys
+-- announcements.comments foreign keys
 
-ALTER TABLE announcements.announcements ADD CONSTRAINT comments_fk FOREIGN KEY (announcement_id) REFERENCES announcements.announcements(id);
+ALTER TABLE announcements.comments ADD CONSTRAINT comments_fk FOREIGN KEY (announcement_id) REFERENCES announcements.announcements(id);
 
